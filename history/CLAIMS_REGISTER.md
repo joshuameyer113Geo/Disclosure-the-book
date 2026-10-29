@@ -1,0 +1,124 @@
+# CLAIMS REGISTER
+
+Generated 2026-10-28. Chapter mapping: Eden Writer's mapping plus the Historian's assignments. AO-/MX- claims (ch9) are missing until ARYAN_OCCULT.md and MYTH_CROSSREF.md are regenerated. Confidence comes from each entry's Tag (MC/A bullets without a tag inherit their case; blank means untagged).
+
+| Claim | Claim (short) | Sources | Confidence | Chapter | File |
+|---|---|---|---|---|---|
+| T-001 | Ezekiel's "wheels within wheels" vision: c. 6th century BCE (Book of Ezekiel, ch. 1), Baby | S-0001, S-0002, S-0003, S-0004 | lore | 7 | TIMELINE.md |
+| T-002 | Nuremberg celestial phenomenon: April 14, 1561 (a related sheet covers March 2, 1561), Nur | S-0005, S-0006, S-0007 | in between | 8 | TIMELINE.md |
+| T-003 | Basel celestial event: July 27–28 and August 7, 1566, Basel, Switzerland | S-0008, S-0009, S-0007 | in between | 8 | TIMELINE.md |
+| T-004 | Mystery airship wave: Nov 1896 to April 1897, across the U.S. (peaking in Texas April 13–1 | S-0010, S-0011 | in between | 10 | TIMELINE.md |
+| T-005 | Aurora, Texas "airship crash": story published April 19, 1897 (event dated April 17), Auro | S-0011, S-0012, S-0010 | lore | 10 | TIMELINE.md |
+| T-006 | "Foo fighters": Nov 1944 to early 1945, Rhine Valley near Strasbourg, plus other theaters | S-0013, S-0014, S-0015 | in between | 11 | TIMELINE.md |
+| T-007 | Kenneth Arnold sighting: June 24, 1947, near Mount Rainier, Washington | S-0016, S-0017, S-0018, S-0019, S-0020 | in between | 12;27 | TIMELINE.md |
+| T-008 | Roswell incident: July 1947, near Roswell, New Mexico | S-0021, S-0022, S-0023, S-0024, S-0025, S-0026 | in between | 13;30 | TIMELINE.md |
+| T-009 | Project Blue Book: March 1952 to Dec 1969, USAF (Wright-Patterson AFB) | S-0027, S-0028, S-0029, S-0030 | fact | 33 | TIMELINE.md |
+| T-010 | Washington, D.C. sightings: July 19–20 and 26–27, 1952, National Airport and the Capitol a | S-0031, S-0032, S-0033, S-0034, S-0035 | contested | 15 | TIMELINE.md |
+| T-011 | CIA Robertson Panel: Jan 14–18, 1953, Washington, D.C. | S-0036, S-0037, S-0038 | fact | 34 | TIMELINE.md |
+| T-012 | Betty & Barney Hill abduction: Sept 19–20, 1961, U.S. Route 3, White Mountains, New Hampsh | S-0039, S-0040, S-0041, S-0042, S-0043, S-0044 | lore | 16;28 | TIMELINE.md |
+| T-013 | Socorro landing (Lonnie Zamora): April 24, 1964, Socorro, New Mexico | S-0045, S-0046, S-0047, S-0048 | in between | 17 | TIMELINE.md |
+| T-014 | *Chariots of the Gods?* and the ancient-astronaut theory: published 1968 (Erich von Dänike | S-0049, S-0001, S-0003, S-0004, S-0050, S-0051 | lore | 29 | TIMELINE.md |
+| T-015 | Condon Report: 1966–1968, University of Colorado (USAF-funded) | S-0052, S-0027, S-0053, S-0054 | fact | 35 | TIMELINE.md |
+| T-016 | Travis Walton disappearance: Nov 5, 1975, Apache-Sitgreaves National Forest, Arizona | S-0055, S-0056, S-0057, S-0058, S-0059 | lore | 19 | TIMELINE.md |
+| T-017 | Sitchin's "Anunnaki / Nibiru": *The 12th Planet*, 1976 | S-0060, S-0061, S-0062, S-0003 | lore | 2 | TIMELINE.md |
+| T-018 | Rendlesham Forest: Dec 26–28, 1980, near RAF Woodbridge/Bentwaters, Suffolk, UK | S-0063, S-0064, S-0065 | in between | 20 | TIMELINE.md |
+| T-019 | Bob Lazar / KLAS-TV: Nov 1989 (broadcasts Nov 10 & 13; "On the Record," Dec 9), Las Vegas; | S-0066, S-0067, S-0068, S-0069, S-0070 | lore | 22;30 | TIMELINE.md |
+| T-020 | Belgian UFO wave: Nov 1989 to April 1990 (F-16 scramble March 30–31, 1990), Belgium | S-0071, S-0072, S-0073 | in between | 23 | TIMELINE.md |
+| T-021 | Phoenix Lights: March 13, 1997, Arizona | S-0074, S-0075, S-0076, S-0077 | contested | 24 | TIMELINE.md |
+| T-022 | USS Nimitz "Tic Tac": Nov 14, 2004, about 100 mi SW of San Diego | S-0078, S-0079, S-0080, S-0081, S-0082 | fact | 25 | TIMELINE.md |
+| T-023 | AATIP: 2007–2012, Pentagon/DIA, contracting with Bigelow's company in Las Vegas | S-0083, S-0084 | contested | 36 | TIMELINE.md |
+| T-024 | USS Theodore Roosevelt (Gimbal/GoFast): 2014 to Jan 2015, U.S. East Coast | S-0085, S-0086, S-0087, S-0088 | fact | 26 | TIMELINE.md |
+| T-025 | NYT AATIP exposé: Dec 16, 2017 | S-0083, S-0089, S-0090 | fact | 36;27 | TIMELINE.md |
+| T-026 | DoD releases three Navy videos: Apr 27, 2020 | S-0080, S-0091, S-0090 | fact | 37 | TIMELINE.md |
+| T-027 | ODNI Preliminary Assessment: June 25, 2021 | S-0092, S-0093, S-0094, S-0095 | fact | 37 | TIMELINE.md |
+| T-028 | AARO established: July 20, 2022 | S-0096, S-0097 | fact | 38;43 | TIMELINE.md |
+| T-029 | House Oversight UAP hearing: July 26, 2023, Rayburn HOB | S-0098, S-0099, S-0100, S-0101, S-0102, S-0103 | contested | 39 | TIMELINE.md |
+| T-030 | AARO Historical Record Report Vol. 1: released Mar 8, 2024 | S-0104, S-0105, S-0106 | contested | 38 | TIMELINE.md |
+| T-031 | "UAP: Exposing the Truth" hearing: Nov 13, 2024 | S-0107, S-0108, S-0109 | contested | 40 | TIMELINE.md |
+| T-032 | Task Force hearing on UAP transparency: Sept 9, 2025 | S-0106, S-0110 | contested | 40 | TIMELINE.md |
+| T-033 | Luna letter demanding four AARO videos: Mar 31, 2026 | S-0111, S-0112 | fact | 40 | TIMELINE.md |
+| T-034 | PURSUE declassification releases: May 8, 2026 through Oct 23, 2026 (Release 07) | S-0113, S-0114, S-0115 | fact | 41 | TIMELINE.md |
+| T-035 | AARO FY2025 annual report and the Virginia-coast event: July 2026 | S-0097, S-0096 | fact | 41;43 | TIMELINE.md |
+| T-036 | Atrahasis epic: human creation from clay and a slain god's blood, Old Babylonian Mesopotam | S-0116, S-0117 | fact | 3 | TIMELINE.md |
+| T-037 | Enuma Elish Tablet VI: mankind from Kingu's blood, Babylon (date: UNCONFIRMED tonight) | S-0118, S-0119 | fact | 3 | TIMELINE.md |
+| T-038 | Genesis 2–3, the serpent in Eden (Hebrew Bible) | S-0120, S-0121 | in between | 5 | TIMELINE.md |
+| T-039 | Book of Watchers (1 Enoch 1–36), 3rd century BCE (scholarly consensus), with Qumran copies | S-0122, S-0123 | fact | 6 | TIMELINE.md |
+| T-040 | Feathered Serpent Pyramid, Teotihuacan, about 200 CE | S-0124, S-0125 | fact | 32 | TIMELINE.md |
+| T-041 | Adamski's "Orthon" contact claim: Nov 20, 1952, near Desert Center, California | S-0126, S-0127 | fact | 9 | TIMELINE.md |
+| T-042 | Der Spiegel exposé on von Däniken: Mar 19, 1973 | S-0128, S-0129 | fact | 29 | TIMELINE.md |
+| T-043 | David Icke, *The Biggest Secret*: 1999 | S-0130, S-0131 | fact | 9 | TIMELINE.md |
+| T-044 | PPP poll: 4% of US voters believe in reptilian elites, Mar 27–30, 2013 | S-0132, S-0133 | fact | 9;31 | TIMELINE.md |
+| T-045 | "All-powerful gods": the gods' limits in Mesopotamian myth (cross-reference A-005) | S-0134, S-0118 | in between | 3 | TIMELINE.md |
+| T-046 | Nāgas in Hindu and Buddhist tradition (cross-reference A-009) | S-0135, S-0136 | fact | 32 | TIMELINE.md |
+| T-047 | Egyptian serpents Apophis, Wadjet, and Mehen (cross-reference A-010) | S-0137, S-0138 | fact | 32 | TIMELINE.md |
+| T-048 | Ch5. The Eden serpent in early Jewish interpretation (Josephus; midrash; Pirqe de-Rabbi El | S-0139, S-0140, S-0141, S-0142 | fact | 5 | TIMELINE.md |
+| T-049 | Ch5. Christian identification of the serpent with Satan (Wisdom 2:24 to Revelation 12:9 an | S-0121, S-0120, S-0143 | fact | 5 | TIMELINE.md |
+| T-050 | Ch5. Gnostic readings: the serpent as revealer (Hypostasis of the Archons; Testimony of Tr | S-0144, S-0145, S-0146, S-0147 | in between | 5 | TIMELINE.md |
+| T-051 | Ch5. Modern scholarly and ancient-astronaut readings of the serpent | S-0120, S-0130 | fact | 5 | TIMELINE.md |
+| T-052 | Ch9. Billy Meier and the Pleiadians (Switzerland, 1975 onward) | S-0148, S-0149, S-0150 | contested | 9 | TIMELINE.md |
+| T-053 | Ch9. David Icke on BBC *Wogan*: Apr 29, 1991 | S-0151, S-0152, S-0153 | fact | 9 | TIMELINE.md |
+| T-054 | Ch42. UAP Disclosure Act of 2023 (Schumer–Rounds), S.Amdt. 797 to S. 2226 (FY2024 NDAA), J | S-0154, S-0155 | fact | 42 | TIMELINE.md |
+| T-055 | Ch42. The FY2024 NDAA strips the Act (signed Dec 22, 2023) | S-0155, S-0156, S-0157 | fact | 42 | TIMELINE.md |
+| T-056 | Ch42. UAP Disclosure Act of 2025, S.Amdt. 3111 (submitted Jul 29, 2025), left out of the F | S-0158, S-0159, S-0160, S-0161 | fact | 42 | TIMELINE.md |
+| T-057 | Ch42. Status through Oct 2026: the House passes the Act in its FY2027 NDAA (Jul 22, 2026); | S-0162, S-0163, S-0164, S-0161 | contested | 42 | TIMELINE.md |
+| T-058 | Ch44. Galileo Project launched at Harvard: Jul 26, 2021 (led by Avi Loeb) | S-0165, S-0166, S-0167 | fact | 44 | TIMELINE.md |
+| T-059 | Ch44. Galileo Project published results: JAI papers (2023) and the infrared-array commissi | S-0168, S-0169, S-0170, S-0171 | fact | 44 | TIMELINE.md |
+| T-060 | Chicxulub impact and the end-Cretaceous extinction: about 66 million years ago, Yucatán, M | S-0172, S-0173, S-0174, S-0175 | fact | 1 | TIMELINE.md |
+| T-061 | Dale Russell and Ron Séguin's "dinosauroid" thought experiment: 1982, National Museum of N | S-0176, S-0177, S-0178 | in between | 32 | TIMELINE.md |
+| T-062 | OPEN QUESTION: where the "reptilian" comes from. An Earth-evolved survivor of the impact,  | S-0177, S-0178 | in between | 32 | TIMELINE.md |
+| T-063 | The Anunna/Anunnaki in Sumerian and Akkadian texts versus Sitchin's reading | S-0179, S-0180, S-0181 | fact | 3 | TIMELINE.md |
+| T-064 | Flood myths: Atrahasis, Gilgamesh Tablet XI, Genesis 6–9. George Smith reads the Flood Tab | S-0182, S-0183, S-0184 | fact | 6 | TIMELINE.md |
+| T-065 | Roman prodigies: "phantom ships gleaming in the sky", Rome, winter 218 BC (Livy 21.62.4);  | S-0185, S-0186 | in between | 8 | TIMELINE.md |
+| T-066 | Pliny: a burning round shield (*clipeus ardens*) crossing the sky from west to east at sun | S-0186, S-0187 | in between | 8 | TIMELINE.md |
+| T-067 | Anglo-Saxon Chronicle: "fiery dragons" over Northumbria, 793, before the Lindisfarne raid | S-0188, S-0189 | in between | 8 | TIMELINE.md |
+| T-068 | The "Byland Abbey silver disc, 1290": a modern hoax that began with a 1953 letter to *The  | S-0189, S-0190, S-0191 | lore | 8 | TIMELINE.md |
+| T-069 | Scandinavian "ghost rockets": May to autumn 1946, Sweden, Finland, Norway, Denmark | S-0192, S-0193, S-0194 | in between | 11 | TIMELINE.md |
+| T-070 | The phrase "flying saucer" enters print: June 25–27, 1947 | S-0195, S-0196, S-0197 | fact | 27;12 | TIMELINE.md |
+| T-071 | The Petrozavodsk phenomenon (USSR): Sept 20, 1977, leading to the state Setka program (197 | S-0198, S-0199, S-0200 | in between | 32 | TIMELINE.md |
+| T-072 | France creates GEPAN within CNES, 1977 (SEPRA from 1988, GEIPAN from 2005) | S-0201, S-0202, S-0203 | fact | 32;45 | TIMELINE.md |
+| T-073 | Brazil, Operação Prato: Colares, Pará, Oct to Dec 1977 | S-0204, S-0205, S-0206 | in between | 32 | TIMELINE.md |
+| T-074 | Australia: pilot Frederick Valentich vanishes over Bass Strait after reporting a strange c | S-0207, S-0208 | in between | 32 | TIMELINE.md |
+| T-075 | UK: the MoD's UFO files are released in tranches, 2008–2013; the UFO desk closes in late 2 | S-0209, S-0210, S-0211 | fact | 45 | TIMELINE.md |
+| T-076 | Japan: cross-party Diet league on UAP formed June 2024 (chair Yasukazu Hamada); asks the D | S-0212, S-0213, S-0214 | fact | 45 | TIMELINE.md |
+| MC-001 | Kenneth Arnold: June 24, 1947, near Mount Rainier, Washington | S-0016, S-0017, S-0215 | in between | 12 | MODERN_CASES_FACTS.md |
+| MC-002 | Roswell, including Maj. Jesse Marcel: early July 1947, near Roswell, New Mexico | S-0021, S-0216, S-0023 | contested | 13 | MODERN_CASES_FACTS.md |
+| MC-003 | Capt. Thomas Mantell: January 7, 1948, Godman Field (Fort Knox), crash near Franklin, Kent | S-0217, S-0218, S-0219 | fact | 14 | MODERN_CASES_FACTS.md |
+| MC-004 | Washington, D.C. sightings: July 19–20 and 26–27, 1952, Washington National Airport and th | S-0034, S-0031, S-0036 | contested | 15 | MODERN_CASES_FACTS.md |
+| MC-005 | Betty and Barney Hill: September 19–20, 1961, U.S. Route 3, White Mountains, New Hampshire | S-0042, S-0039, S-0040 | lore | 16;28 | MODERN_CASES_FACTS.md |
+| MC-006 | Lonnie Zamora at Socorro: April 24, 1964, about 1 mile SSW of Socorro, New Mexico | S-0045, S-0046, S-0047 | in between | 17 | MODERN_CASES_FACTS.md |
+| MC-007 | Malmstrom AFB and Robert Salas: March 16, 1967 (Echo Flight); Salas's account is "on or ab | S-0220, S-0221, S-0222, S-0223 | contested | 18 | MODERN_CASES_FACTS.md |
+| MC-017 | Later appearances: BBC Suffolk (Dec 2010) quotes Salas as saying he discussed the case wit | S-0065 |  | 18 | MODERN_CASES_FACTS.md |
+| MC-008 | Travis Walton: November 5, 1975, near Turkey Springs, Apache-Sitgreaves National Forest, A | S-0055, S-0056, S-0057 | lore | 19 | MODERN_CASES_FACTS.md |
+| MC-009 | Rendlesham Forest: December 26–28, 1980, near RAF Woodbridge/Bentwaters, Suffolk, UK | S-0064, S-0065, S-0224 | in between | 20 | MODERN_CASES_FACTS.md |
+| MC-010 | JAL Flight 1628: November 17, 1986 (Alaska Standard Time), over eastern Alaska, from the C | S-0225, S-0226, S-0227 | in between | 21 | MODERN_CASES_FACTS.md |
+| MC-018 | Grounding: Within months of the publicity, JAL reportedly moved Terauchi to a desk job; he | S-0228, S-0229 |  | 21 | MODERN_CASES_FACTS.md |
+| MC-011 | Phoenix Lights: March 13, 1997, Arizona | S-0074, S-0076, S-0077 | contested | 24 | MODERN_CASES_FACTS.md |
+| MC-012 | Bob Lazar: November 1989 broadcasts (and Dec 9, 1989), KLAS-TV, Las Vegas; the claimed sit | S-0067, S-0066, S-0070 | lore | 22 | MODERN_CASES_FACTS.md |
+| MC-013 | USS Nimitz "Tic Tac" (Fravor, Dietrich, Day): November 14, 2004, about 100 mi SW of San Di | S-0078, S-0081, S-0082, S-0080 | fact | 25 | MODERN_CASES_FACTS.md |
+| MC-014 | USS Theodore Roosevelt and Ryan Graves: 2014 to March 2015 (videos dated January 2015), U. | S-0085, S-0098, S-0086 | fact | 26 | MODERN_CASES_FACTS.md |
+| MC-015 | David Grusch: first public claims June 2023 (*The Debrief* and NewsNation); testified July | S-0230, S-0231, S-0232, S-0100 | contested | 39 | MODERN_CASES_FACTS.md |
+| MC-016 | Luis Elizondo: resigned October 2017; NYT story Dec 16, 2017; IG complaint May 2021; testi |  | contested | 36 | MODERN_CASES_FACTS.md |
+| MC-019 | The DoD IG closed the reprisal case on Feb 16, 2022, finding no action affecting his clear | S-0233 |  | 36 | MODERN_CASES_FACTS.md |
+| MC-020 | Aftermath: He joined To The Stars Academy. He testified at the House hearing on Nov 13, 20 | S-0234 |  | 36 | MODERN_CASES_FACTS.md |
+| MC-021 | Belgian wave (1989–90): ADD. Rare air-force cooperation with civilians, an F-16 scramble,  | S-0071, S-0072 |  | 23 | MODERN_CASES_FACTS.md |
+| MC-022 | Coyne helicopter (Oct 18, 1973, Mansfield, Ohio): ADD. An Army Reserve aircrew encounter d | S-0235, S-0236 |  | 32 | MODERN_CASES_FACTS.md |
+| MC-023 | Pascagoula (Oct 11, 1973, Charles Hickson and Calvin Parker): ADD, as a sociology segment. | S-0237 |  | 28 | MODERN_CASES_FACTS.md |
+| MC-024 | Westall (Apr 6, 1966, Melbourne, Australia): ADD. A mass daytime school sighting that wide | S-0238 |  | 32 | MODERN_CASES_FACTS.md |
+| MC-025 | AARO historical findings: ADD as the official counter-narrative. Note that the AARO Histor | S-0105, S-0104 |  | 38 | MODERN_CASES_FACTS.md |
+| MC-026 | Primary archives: The UNH Milne Special Collections hold the Betty and Barney Hill Papers  | S-0039, S-0239, S-0240 |  | 16;28 | MODERN_CASES_FACTS.md |
+| MC-027 | Earliest descriptions (1961): Betty's report to Pease AFB describes the craft (fin-like st | S-0241, S-0242, S-0243 |  | 16;28 | MODERN_CASES_FACTS.md |
+| MC-028 | Hypnosis transcripts: Dr. Benjamin Simon's sessions (1964) were taped verbatim. Fuller's b | S-0244, S-0245 |  | 16;28 | MODERN_CASES_FACTS.md |
+| MC-029 | When the "gray" image arrived (DISPUTED): The 1961 accounts describe uniformed, broadly hu | S-0246, S-0247, S-0248, S-0249 | contested | 16;28 | MODERN_CASES_FACTS.md |
+| A-001 | Atrahasis: humans made from clay and a slain god | S-0116, S-0134, S-0250, S-0117, S-0251 | fact | 3 | ANCIENT_LORE.md |
+| A-002 | Enuma Elish: Marduk and Kingu's blood | S-0118, S-0252, S-0119, S-0253 | fact | 3 | ANCIENT_LORE.md |
+| A-003 | Genesis 2–3: Adam, Eve, and the serpent | S-0120, S-0121, S-0143 | in between | 4;5 | ANCIENT_LORE.md |
+| A-004 | Genesis 6:1–4 and the Watchers of 1 Enoch | S-0122, S-0123, S-0254, S-0255 | fact | 6 | ANCIENT_LORE.md |
+| A-005 | "All-powerful gods" as a theme | S-0134, S-0118, S-0117 | in between | 3 | ANCIENT_LORE.md |
+| A-006 | Zecharia Sitchin: the Anunnaki and Nibiru | S-0256, S-0257, S-0061, S-0060 | contested | 2;29 | ANCIENT_LORE.md |
+| A-007 | Erich von Däniken: *Chariots of the Gods?* | S-0128, S-0129, S-0258, S-0259 | contested | 29 | ANCIENT_LORE.md |
+| A-008 | Quetzalcoatl and the Feathered Serpent Pyramid, Teotihuacan | S-0124, S-0125, S-0260, S-0261 | fact | 32 | ANCIENT_LORE.md |
+| A-009 | Nāgas (Hindu and Buddhist traditions) | S-0135, S-0262, S-0136, S-0263 | fact | 32 | ANCIENT_LORE.md |
+| A-010 | Egyptian serpents: Apophis, Wadjet, Mehen | S-0137, S-0264, S-0138, S-0265 | fact | 32 | ANCIENT_LORE.md |
+| A-011 | George Adamski and the "Nordic" Space Brothers (1952–53) | S-0126, S-0127, S-0266, S-0267 | fact | 9 | ANCIENT_LORE.md |
+| A-012 | David Icke and the reptilian thesis (1999) | S-0130, S-0131, S-0268, S-0269 | contested | 9 | ANCIENT_LORE.md |
+| A-013 | Polling: belief in reptilian elites (2013) | S-0132, S-0133, S-0270 | fact | 9;31 | ANCIENT_LORE.md |

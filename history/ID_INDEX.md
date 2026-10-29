@@ -20,6 +20,8 @@
 | A-013 | T-044 |
 
 ## T: TIMELINE.md
+
+(Visual chronological order: see VISUAL_TIMELINE.md. The IDs are not chronological.)
 - T-001: Ezekiel's "wheels within wheels" vision: c. 6th century BCE (Book of Ezekiel, ch. 1), Babylonian exile
 - T-002: Nuremberg celestial phenomenon: April 14, 1561 (a related sheet covers March 2, 1561), Nuremberg, Germany
 - T-003: Basel celestial event: July 27–28 and August 7, 1566, Basel, Switzerland
@@ -80,7 +82,25 @@
 - T-058: Ch44. Galileo Project launched at Harvard: Jul 26, 2021 (led by Avi Loeb)
 - T-059: Ch44. Galileo Project published results: JAI papers (2023) and the infrared-array commissioning paper (*Sensor
 
-*Next free: T-060*
+- T-060: Chicxulub impact and the end-Cretaceous extinction: about 66 million years ago, Yucatán, Mexico
+- T-061: Dale Russell and Ron Séguin's "dinosauroid" thought experiment: 1982, National Museum of Natural Sciences, Ott
+- T-062: OPEN QUESTION: where the "reptilian" comes from. An Earth-evolved survivor of the impact, or an off-world orig
+- T-063: The Anunna/Anunnaki in Sumerian and Akkadian texts versus Sitchin's reading
+- T-064: Flood myths: Atrahasis, Gilgamesh Tablet XI, Genesis 6–9. George Smith reads the Flood Tablet (K.3375) on Dec 
+- T-065: Roman prodigies: "phantom ships gleaming in the sky", Rome, winter 218 BC (Livy 21.62.4); round shields in the
+- T-066: Pliny: a burning round shield (*clipeus ardens*) crossing the sky from west to east at sunset, 100 BC (Natural
+- T-067: Anglo-Saxon Chronicle: "fiery dragons" over Northumbria, 793, before the Lindisfarne raid
+- T-068: The "Byland Abbey silver disc, 1290": a modern hoax that began with a 1953 letter to *The Times*
+- T-069: Scandinavian "ghost rockets": May to autumn 1946, Sweden, Finland, Norway, Denmark
+- T-070: The phrase "flying saucer" enters print: June 25–27, 1947
+- T-071: The Petrozavodsk phenomenon (USSR): Sept 20, 1977, leading to the state Setka program (1978 to about 1990)
+- T-072: France creates GEPAN within CNES, 1977 (SEPRA from 1988, GEIPAN from 2005)
+- T-073: Brazil, Operação Prato: Colares, Pará, Oct to Dec 1977
+- T-074: Australia: pilot Frederick Valentich vanishes over Bass Strait after reporting a strange craft, Oct 21, 1978
+- T-075: UK: the MoD's UFO files are released in tranches, 2008–2013; the UFO desk closes in late 2009
+- T-076: Japan: cross-party Diet league on UAP formed June 2024 (chair Yasukazu Hamada); asks the Defense Minister for 
+
+*Next free: T-077*
 
 ## MC: MODERN_CASES_FACTS.md
 - MC-001: Kenneth Arnold: June 24, 1947, near Mount Rainier, Washington
