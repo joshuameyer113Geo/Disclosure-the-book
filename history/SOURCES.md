@@ -507,3 +507,48 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - MX-010: S-0317, S-0318, S-0319
 - MX-011: S-0320, S-0321, S-0322
 - MX-012: S-0323, S-0324
+
+## AO-/MX- sources, ch9 verification batch (added 2026-10-28)
+
+- **S-0325** https://en.wikipedia.org/wiki/The_Spear_of_Destiny_(book) — supports AO-023
+- **S-0326** https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/thule-society — supports AO-023
+- **S-0327** https://karlhaemers.substack.com/p/atwill-vs-haemers-who-created-the — supports AO-023
+- **S-0328** https://www.historisches-lexikon-bayerns.de/Lexikon/Germanenorden — supports AO-024
+- **S-0329** https://www.historisches-lexikon-bayerns.de/Lexikon/Thule-Gesellschaft,_1918-1933 — supports AO-024
+- **S-0330** https://doi.org/10.1017/s003224740600578x — supports AO-025
+- **S-0331** https://www.cambridge.org/core/journals/polar-record/article/abs/hitlers-antarctic-base-the-myth-and-the-reality/56465FFEA98E416F559C7F02AB20CE19 — supports AO-025
+- **S-0332** https://en.wikipedia.org/wiki/The_Book_of_the_Damned — supports MX-013
+- **S-0333** https://www.gutenberg.org/ebooks/22472 — supports MX-013
+- **S-0334** https://en.wikipedia.org/wiki/W._Raymond_Drake — supports MX-014
+- **S-0335** https://www.jasoncolavito.com/blog/ancient-aliens-in-early-chinese-myth — supports MX-015
+- **S-0336** https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/012/037/tokubetsusho.pdf — supports MX-016
+- **S-0337** https://www.nippon.com/ja/articles/-/6191 — supports MX-017
+- **S-0338** https://www.city.kamisu.ibaraki.jp/_res/projects/default_project/_page_/001/011/591/kamisu_240301_p0203m.pdf — supports MX-017
+- **S-0339** https://ctext.org/datawiki.pl?if=gb&res=8526214 — supports MX-018
+- **S-0340** https://note.com/xnbmlbxkkl/n/n1b5ea3c1f5d2 — supports MX-018
+- **S-0341** https://doi.org/10.14945/00010044 — supports MX-018
+- **S-0342** https://www.digital.archives.go.jp/file/en/3610559 — supports MX-018
+- **S-0343** https://archive.org/stream/AustralianUFOFiles/A13693_3092-2-000_30030606_djvu.txt — supports MX-019, MX-020
+- **S-0344** https://www.das-ufo-phaenomen.de/app/download/5818762065/Turner+-+UFO+Report+Australia.searchable.pdf — supports MX-019
+- **S-0345** https://otherworlders.com/ufo-sightings/australian-ufo-files/declassified-australian-ufo-file-cat-faced-beings/ — supports MX-019
+- **S-0346** https://grupojdo-ufologiamissioneira.blogspot.com/2013/02/grande-incidencia-de-ufos-na-serra-da.html — supports MX-019
+- **S-0347** https://doi.org/10.1037/0021-843X.102.4.624 — supports MX-021
+- **S-0348** https://doi.org/10.1037/0021-843X.111.3.455 — supports MX-021
+- **S-0349** https://doi.org/10.1177/1363461505050715 — supports MX-021
+- **S-0350** https://doi.org/10.4159/9780674029576 — supports MX-021
+- **S-0351** https://muse.jhu.edu/book/128562 — supports MX-021
+
+## Reverse index: AO-023+/MX-013+ → sources
+
+- AO-023: S-0325, S-0326, S-0327
+- AO-024: S-0328, S-0329
+- AO-025: S-0330, S-0331
+- MX-013: S-0332, S-0333
+- MX-014: S-0334
+- MX-015: S-0335
+- MX-016: S-0336
+- MX-017: S-0337, S-0338
+- MX-018: S-0339, S-0340, S-0341, S-0342
+- MX-019: S-0343, S-0344, S-0345, S-0346
+- MX-020: S-0343
+- MX-021: S-0347, S-0348, S-0349, S-0350, S-0351
