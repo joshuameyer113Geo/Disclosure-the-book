@@ -1,6 +1,6 @@
 # SOURCES (bibliography / source log)
 
-Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S- IDs are permanent and append-only. ARYAN_OCCULT.md and MYTH_CROSSREF.md were not available (lost in the 2026-10-28 wipe), so their AO-/MX- sources are NOT included yet.
+Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S- IDs are permanent and append-only. AO-/MX- sources (ARYAN_OCCULT.md, MYTH_CROSSREF.md) appended 2026-10-28 as S-0271 onward; earlier IDs unchanged.
 
 ## Government Document (46)
 
@@ -413,3 +413,97 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - A-011: S-0126, S-0127, S-0266, S-0267
 - A-012: S-0130, S-0131, S-0268, S-0269
 - A-013: S-0132, S-0133, S-0270
+
+## AO-/MX- sources (added 2026-10-28)
+
+- **S-0271** https://victorianweb.org/authors/bulwer/comingrace.html — supports AO-001
+- **S-0272** https://www.slate.fr/culture/histoires-sans-fin/esoterisme-nazi-quand-fable-prolonge-mythe-nazisme-occulte-magie-noire-mystique-hitler-himmler-ss-societe-vril-thule-pop-culture — supports AO-001, AO-013
+- **S-0273** https://en.wikipedia.org/wiki/Thule_Society — supports AO-002, AO-003
+- **S-0274** https://en.wikipedia.org/wiki/Ariosophy — supports AO-002, AO-011
+- **S-0275** https://doi.org/10.18910/66489 — supports AO-003, AO-011
+- **S-0276** https://www.degruyterbrill.com/publication/dbid/saeo/downloadAsset/SAEO_SAEO%20Fahlbusch%20-%20SS-Ahnenerbe.pdf — supports AO-004
+- **S-0277** https://en.wikipedia.org/wiki/Ahnenerbe — supports AO-004
+- **S-0278** https://www.cambridge.org/core/journals/antiquity/article/nordic-rock-art-and-nazi-mythology-the-ahnenerbe-and-the-search-for-germanic-origins/78C0A6F87254AD080206C38A8A91B1C7 — supports AO-005
+- **S-0279** https://en.wikipedia.org/wiki/1938%E2%80%931939_German_expedition_to_Tibet — supports AO-005, AO-006
+- **S-0280** https://www.bbc.com/news/world-asia-india-58466528 — supports AO-006
+- **S-0281** https://en.wikipedia.org/wiki/German_Antarctic_Expedition_(1938%E2%80%931939) — supports AO-007
+- **S-0282** https://www.ssoar.info/ssoar/bitstream/handle/document/52656/ssoar-dsa-2003-ludecke-In_geheimer_Mission_zur_Antarktis.pdf — supports AO-007
+- **S-0283** https://doi.org/10.2312/polarforschung.21.2.115 — supports AO-007
+- **S-0284** https://wikileaks.org/gifiles/attach/49/49783_.pdf — supports AO-007, AO-015
+- **S-0285** https://en.wikipedia.org/wiki/Vril_Society — supports AO-008, AO-013, AO-014, AO-018
+- **S-0286** https://en.wikipedia.org/wiki/Dietrich_Eckart — supports AO-009, AO-010, AO-011, AO-012
+- **S-0287** https://en.wikipedia.org/wiki/The_Occult_Reich — supports AO-012
+- **S-0288** https://en.wikipedia.org/wiki/The_Morning_of_the_Magicians — supports AO-013
+- **S-0289** https://de.wikipedia.org/wiki/Reichsflugscheibe — supports AO-014
+- **S-0290** https://naziufos.com/volume3/ — supports AO-014
+- **S-0291** https://www.rwarchives.com/2012/11/deconstructing-myth-esoteric-nazism/ — supports AO-014, AO-016
+- **S-0292** https://archive.org/stream/ernstzundelufosnazisecretweapon/Ernst%20Zundel%20-%20UFOs%20Nazi%20Secret%20Weapon_djvu.txt — supports AO-015
+- **S-0293** https://doi.org/10.18574/nyu/9780814733264.003.0012 — supports AO-017
+- **S-0294** https://www.degruyter.com/document/doi/10.1515/actap-2019-0001/html — supports AO-017
+- **S-0295** https://www.lrb.co.uk/the-paper/v40/n15/richard-j.-evans/nuts-about-the-occult — supports AO-018
+- **S-0296** https://correspondencesjournal.com/2018/01/07/julian-strube-reviews-eric-kurlanders-new-book-hitlers-monsters-a-supernatural-history-of-the-third-reich/ — supports AO-018
+- **S-0297** https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees — supports AO-019
+- **S-0298** https://kb42.info/index.php/Nordics — supports AO-019, AO-020
+- **S-0299** https://en.wikipedia.org/wiki/Nordic_aliens — supports AO-020
+- **S-0300** https://en.wikipedia.org/wiki/The_Shadow_Kingdom — supports AO-021
+- **S-0301** https://www.gutenberg.org/ebooks/70830 — supports AO-021
+- **S-0302** https://www.cosmic-library.de/lacerta/Pfeiler-Lacerta.htm — supports AO-021
+- **S-0303** https://www.ucpress.edu/books/a-culture-of-conspiracy/paper — supports AO-022
+- **S-0304** https://www.degruyterbrill.com/document/doi/10.1525/9780520956520-008/html — supports AO-022
+- **S-0305** https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s05e11-the-viking-gods — supports MX-001, MX-002
+- **S-0306** https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s21e16-mysteries-of-the-norse-gods — supports MX-001, MX-002
+- **S-0307** https://www.norsemyth.org/2013/04/notes-for-viking-gods-part-one.html — supports MX-001
+- **S-0308** https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s05e11&tv-show=ancient-aliens — supports MX-002
+- **S-0309** https://doi.org/10.4000/ephaistos.10885 — supports MX-005
+- **S-0310** https://assets.press.princeton.edu/chapters/i14162.pdf — supports MX-005, MX-006, MX-007
+- **S-0311** https://www.jasoncolavito.com/the-origins-of-talos.html — supports MX-006
+- **S-0312** https://www.jasoncolavito.com/blog/adrienne-mayor-says-talos-was-an-ancient-fantasy-robot-but-im-not-so-sure — supports MX-006
+- **S-0313** https://dfll.nchu.edu.tw/intergrams/081/081-hsieh.pdf — supports MX-008
+- **S-0314** https://doi.org/10.26855/tfll.2025.08.017 — supports MX-008
+- **S-0315** https://archive.org/details/chineseroswelluf0000haus — supports MX-009
+- **S-0316** https://en.wikipedia.org/wiki/Dropa_stones — supports MX-009
+- **S-0317** https://en.wikipedia.org/wiki/Utsuro-bune — supports MX-010
+- **S-0318** https://ci.nii.ac.jp/naid/10027373265 — supports MX-010
+- **S-0319** https://rakkousha.co.jp/books/isbn27-0-edoutsurobune.html — supports MX-010
+- **S-0320** https://pages.ucsd.edu/%7Edkjordan/chin/Symaa/Symaa19.html — supports MX-011
+- **S-0321** https://en.wikipedia.org/wiki/Xu_Fu — supports MX-011
+- **S-0322** https://ci.nii.ac.jp/naid/110004671733 — supports MX-011
+- **S-0323** https://www.bl.uk/stories/blogs/posts/the-original-japanese-moon-princess — supports MX-012
+- **S-0324** https://happy-science.jp/en/feature/universe/articles/5131/ — supports MX-012
+
+## Reverse index: AO-/MX- claims → sources
+
+- AO-001: S-0271, S-0272
+- AO-002: S-0273, S-0274
+- AO-003: S-0273, S-0275
+- AO-004: S-0276, S-0277
+- AO-005: S-0278, S-0279
+- AO-006: S-0279, S-0280
+- AO-007: S-0281, S-0282, S-0283, S-0284
+- AO-008: S-0285
+- AO-009: S-0286
+- AO-010: S-0286
+- AO-011: S-0275, S-0274, S-0286
+- AO-012: S-0287, S-0286
+- AO-013: S-0288, S-0285, S-0272
+- AO-014: S-0289, S-0285, S-0290, S-0291
+- AO-015: S-0292, S-0284
+- AO-016: S-0291
+- AO-017: S-0293, S-0294
+- AO-018: S-0285, S-0295, S-0296
+- AO-019: S-0297, S-0298
+- AO-020: S-0299, S-0298
+- AO-021: S-0269, S-0300, S-0301, S-0302
+- AO-022: S-0303, S-0304, S-0269
+- MX-001: S-0305, S-0306, S-0307
+- MX-002: S-0308, S-0305, S-0306
+- MX-003: (gap; no source)
+- MX-004: (gap; no source)
+- MX-005: S-0309, S-0310
+- MX-006: S-0311, S-0312, S-0310
+- MX-007: S-0310
+- MX-008: S-0313, S-0314
+- MX-009: S-0315, S-0316
+- MX-010: S-0317, S-0318, S-0319
+- MX-011: S-0320, S-0321, S-0322
+- MX-012: S-0323, S-0324
