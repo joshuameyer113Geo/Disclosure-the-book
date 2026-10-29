@@ -12,7 +12,7 @@ Lineout only, no prose. Order runs from ancient history to the present, then lab
 4. **Adam and Eve, Adapa, and the Sitchin Parallel**: Compare Genesis 2-3 and Adapa with the genetic-intervention argument; say who made the parallel and when.  
    Sources: research/ANCIENT_TIMELINE.md (Genesis 1-6; Adapa)
 5. **The Serpent and the All-Powerful Gods**: Trace the Eden serpent and the decreeing gods as sources, and how ancient-astronaut writers reread them.  
-   Sources: research/ANCIENT_TIMELINE.md (Genesis 1-6; Anunnaki; Enki); RESEARCH GAP: needs historian entry on serpent readings
+   Sources: research/ANCIENT_TIMELINE.md (Genesis 1-6; Anunnaki; Enki); history/TIMELINE.md T-038, T-048, T-049, T-050, T-051 (T-051: primary ancient-astronaut text still missing)
 6. **The Flood and the Nephilim**: Eridu Genesis, Atrahasis, and Genesis 6 as source texts, and their later 'alien hybrid' readings.  
    Sources: research/ANCIENT_TIMELINE.md (Eridu Genesis; Atrahasis; Genesis 1-6)
 7. **Egypt and Ezekiel**: The Abydos 'helicopter', the Tulli Papyrus (surfaced 1953), and Ezekiel's wheels as case studies in back-reading.  
@@ -20,7 +20,7 @@ Lineout only, no prose. Order runs from ancient history to the present, then lab
 8. **Prodigies and Broadsheets**: Roman prodigies and the Nuremberg 1561 and Basel 1566 sheets as omen literature, plus where the record goes quiet.  
    Sources: research/ANCIENT_TIMELINE.md (Roman prodigies; Gaps); history/TIMELINE.md #2-3 (T-002, T-003)
 9. **Inventing Ancient Aliens; Nordics and Reptilians as Modern Lore**: Name the originators: Fort, von Daniken, Sitchin; Nordic 'space brothers' (contactee era, e.g. George Adamski, 1950s) and reptilians (popularized by David Icke, 1990s), treated as modern lore read back onto antiquity.  
-   Sources: research/ANCIENT_TIMELINE.md (Interpretive layer 1919-1976); history/TIMELINE.md #14, #17; RESEARCH GAP: needs historian entry for Adamski/Meier/Icke origins
+   Sources: research/ANCIENT_TIMELINE.md (Interpretive layer 1919-1976); history/TIMELINE.md #14, #17; history/TIMELINE.md T-041, T-052 (thin sourcing), T-053, T-043, T-044
 
 ## Part II: Modern and Military Cases
 10. **The Airship Wave and Aurora, 1896-97**: Pre-saucer mass sightings and a newspaper 'crash' story.  
@@ -36,7 +36,7 @@ Lineout only, no prose. Order runs from ancient history to the present, then lab
 15. **Washington, D.C., 1952**: Radar and visual sightings over the capital.  
    Sources: history/TIMELINE.md #10; history/MODERN_CASES_FACTS.md #4; research/MODERN_CASES.md #4
 16. **Betty and Barney Hill, 1961: The Gray Template**: How the hypnosis-derived account set the modern 'gray' description.  
-   Sources: history/TIMELINE.md #12 (T-012); history/MODERN_CASES_FACTS.md #5 (MC-005); research/MODERN_CASES.md #5
+   Sources: history/TIMELINE.md #12 (T-012); history/MODERN_CASES_FACTS.md #5 (MC-005); research/MODERN_CASES.md #5; history/MODERN_CASES_FACTS.md MC-026, MC-027, MC-028, MC-029 (TV-influence link DISPUTED)
 17. **Lonnie Zamora at Socorro, 1964**: A police report with ground traces left 'unidentified'.  
    Sources: history/TIMELINE.md #13; history/MODERN_CASES_FACTS.md #6; research/MODERN_CASES.md #6
 18. **Malmstrom AFB, 1967**: Missile shutdowns, Salas's account, both sides.  
@@ -94,11 +94,11 @@ Lineout only, no prose. Order runs from ancient history to the present, then lab
 
 ## Part V: Projections (labeled PROJECTION; grounded in Part IV)
 42. **PROJECTION: The Legislative Path**: Where the UAP Disclosure Act effort and records review could go, from enacted and proposed text only.  
-   Sources: history/TIMELINE.md #32-34; RESEARCH GAP: needs historian entry on UAP Disclosure Act text and status
+   Sources: history/TIMELINE.md #32-34; history/TIMELINE.md T-054, T-055, T-056, T-057 (Act NOT law as of Oct 28, 2026; recheck after midterms)
 43. **PROJECTION: AARO's Next Reports**: Expected outputs given AARO's mandate and reporting record.  
    Sources: history/TIMELINE.md #28, #30, #35
 44. **PROJECTION: Science Takes the Field**: The Galileo Project and other instrumented searches, and what data could settle.  
-   Sources: RESEARCH GAP: needs historian entry on Galileo Project (Avi Loeb, Harvard, 2021)
+   Sources: history/TIMELINE.md T-058, T-059
 45. **PROJECTION: What Disclosure Could Look Like**: Scenarios bounded by the record, from incremental releases to stalled efforts.  
    Sources: history/TIMELINE.md #34-35; research/MODERN_CASES.md (Patterns)
 

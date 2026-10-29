@@ -7,7 +7,7 @@ Disclosure: a realistic documentary history of the UFO phenomenon, from ancient 
 ## Structure
 - outline/OUTLINE.md: 45-chapter lineout (purpose + sources per chapter); source of truth for order
 - manuscript/part-1..part-5/chNN.md: chapter stubs (lineout only, no prose yet)
-- history/TIMELINE.md [T-NNN], history/MODERN_CASES_FACTS.md [MC-NNN]: historian claim files (IDs used in footnotes)
+- history/TIMELINE.md [T-NNN], history/MODERN_CASES_FACTS.md [MC-NNN]: historian claim files (IDs used in footnotes); history/ID_INDEX.md, OPEN_QUESTIONS.md, ANCIENT_LORE.md (tracked)
 - research/ANCIENT_TIMELINE.md, research/MODERN_CASES.md: research briefs
 - rules/STORY_RULES.md: canon rules + footnote convention
 - QUESTIONS-LOG.md, notes/: questions, reuse review, publishing plan
@@ -41,7 +41,8 @@ Disclosure: a realistic documentary history of the UFO phenomenon, from ancient 
 - Claims-to-sources: chapter Sources lines in OUTLINE.md point to T-/MC- entries.
 
 ## Flagged Ambiguities
-- Research gaps: serpent-reading history (ch5); Adamski/Meier/Icke origins (ch9); UAP Disclosure Act text/status (ch42); Galileo Project (ch44); a source for the physical gray description (ch16).
+- Research gaps closed 2026-10-28: ch5 T-038/T-048-T-051 (T-051 lacks a primary ancient-astronaut text); ch9 T-041/T-052 (thin)/T-053/T-043/T-044; ch16 MC-026-MC-029 (TV-influence link DISPUTED); ch42 T-054-T-057 (Act NOT law as of Oct 28, 2026; recheck after midterms); ch44 T-058/T-059.
+- Remaining open research items: history/OPEN_QUESTIONS.md (21 items).
 - Open questions: who attaches timeline imagery; whether old dramatization rules apply (QUESTIONS-LOG.md).
 
 ## Learned Patterns

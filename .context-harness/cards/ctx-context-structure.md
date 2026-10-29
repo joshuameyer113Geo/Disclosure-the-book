@@ -5,7 +5,7 @@ importance: 0.65
 confidence: confirmed
 source: CONTEXT.md#structure
 chunk: null
-tokens_est: 125
+tokens_est: 141
 tags: [context, structure]
 ---
 
@@ -19,7 +19,7 @@ outline/OUTLINE.md: 45-chapter lineout (purpose + sources per chapter); source o
 
 ## Key facts
 - manuscript/part-1..part-5/chNN.md: chapter stubs (lineout only, no prose yet)
-- history/TIMELINE.md [T-NNN], history/MODERNCASESFACTS.md [MC-NNN]: historian claim files (IDs used in footnotes)
+- history/TIMELINE.md [T-NNN], history/MODERNCASESFACTS.md [MC-NNN]: historian claim files (IDs used in footnotes); history/IDINDEX.md, OPENQUESTIONS.md,...
 - research/ANCIENTTIMELINE.md, research/MODERNCASES.md: research briefs
 - rules/STORYRULES.md: canon rules + footnote convention
 - QUESTIONS-LOG.md, notes/: questions, reuse review, publishing plan

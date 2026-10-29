@@ -1,12 +1,12 @@
 {
   "schema": 2,
   "updated_at": "2026-10-29",
-  "source_hash": "36ca3808f3dd946a91bca884aff6d8fb4618e4c6f52abc480f8b4f5f545129b2",
+  "source_hash": "6d765feaeec45b3a36503ae63f2a91e6eadb9889cca2f3fa0af97141dd94354e",
   "sources": [
     {
       "path": "CONTEXT.md",
-      "sha256": "0a8449632ba4fee71b11c87e1cbf99c6d912486c72d70c1eb91734a3c66a09c5",
-      "lines": 48
+      "sha256": "73538bac61d88134cf7b0faf6cdd1274bb3def4c1effd4ea22f55439b1a07f57",
+      "lines": 49
     },
     {
       "path": "NOW.md",
@@ -50,7 +50,7 @@
       "importance": 0.65,
       "confidence": "confirmed",
       "recency": "2026-10-29",
-      "tokens_est": 125,
+      "tokens_est": 141,
       "tags": [
         "context",
         "structure"
@@ -60,10 +60,10 @@
       ],
       "card_path": ".context-harness/cards/ctx-context-structure.md",
       "chunk_path": "",
-      "content_sha256": "f6312bd0510cd2c14a76ec392e3f465f1daad0c3ee1ffb37714f0708135e6578",
+      "content_sha256": "b35c14b9f88481bd947054ca3b044f23c85658e14f792fa555b0911e7f10a5f3",
       "key_facts": [
         "manuscript/part-1..part-5/chNN.md: chapter stubs (lineout only, no prose yet)",
-        "history/TIMELINE.md [T-NNN], history/MODERNCASESFACTS.md [MC-NNN]: historian claim files (IDs used in footnotes)",
+        "history/TIMELINE.md [T-NNN], history/MODERNCASESFACTS.md [MC-NNN]: historian claim files (IDs used in footnotes); history/IDINDEX.md, OPENQUESTIONS.md,...",
         "research/ANCIENTTIMELINE.md, research/MODERNCASES.md: research briefs",
         "rules/STORYRULES.md: canon rules + footnote convention",
         "QUESTIONS-LOG.md, notes/: questions, reuse review, publishing plan"
@@ -210,7 +210,7 @@
     {
       "id": "ctx-context-flagged-ambiguities",
       "title": "CONTEXT.md: Flagged Ambiguities",
-      "summary": "Research gaps: serpent-reading history (ch5); Adamski/Meier/Icke origins (ch9); UAP Disclosure Act text/status (ch42); Galileo Project (ch44); a source for the physical gray description (ch16).",
+      "summary": "Research gaps closed 2026-10-28: ch5 T-038/T-048-T-051 (T-051 lacks a primary ancient-astronaut text); ch9 T-041/T-052 (thin)/T-053/T-043/T-044; ch16 MC-026-MC-029 (TV-influence link DISPUTED);...",
       "source": "CONTEXT.md#flagged-ambiguities",
       "source_path": "CONTEXT.md",
       "kind": "context",
@@ -218,7 +218,7 @@
       "importance": 0.65,
       "confidence": "confirmed",
       "recency": "2026-10-29",
-      "tokens_est": 76,
+      "tokens_est": 117,
       "tags": [
         "context",
         "flagged-ambiguities"
@@ -228,8 +228,9 @@
       ],
       "card_path": ".context-harness/cards/ctx-context-flagged-ambiguities.md",
       "chunk_path": "",
-      "content_sha256": "ab3611ddfee66af0fb690cd2b7fe78c91c419c7efac3301f859b19b5d3c5f59b",
+      "content_sha256": "772c46e430b8f9bb4573082783478d791730375923d89ab5116acd4f07e075b2",
       "key_facts": [
+        "Remaining open research items: history/OPENQUESTIONS.md (21 items).",
         "Open questions: who attaches timeline imagery; whether old dramatization rules apply (QUESTIONS-LOG.md)."
       ]
     },
