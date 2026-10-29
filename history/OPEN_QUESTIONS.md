@@ -36,3 +36,14 @@ About 15 links were found in earlier live searches but returned 403 or 500 to au
 4. **Polling series:** belief in aliens and ancient astronauts over time (Gallup, Chapman Survey of American Fears).
 5. **Other "prodigy" broadsides and premodern sky lore** beyond T-002 and T-003. Also verify the Zürich shelfmarks (the Basel catalog record was moved from T-002 to T-003 tonight because it had been misattached).
 6. **Pascagoula (MC-023) and Coyne (MC-022):** full case files for the expansion of MODERN_CASES.
+
+
+## D. Added 2026-10-28 (third batch)
+22. **Reptilian origin, OPEN (T-062):** an Earth-evolved survivor of the impact (T-060, T-061) or off-world (T-043, T-017)? Present both and decide neither.
+23. **Nordic archetype lineage:** Adamski's Orthon (T-041) and Meier's Pleiadians (T-052) to current discourse. Still need live sources on current-discourse surveys of "Nordic/reptilian" claims (e.g., recent academic folklore studies).
+24. **Petrozavodsk–Plesetsk launch link (T-071):** confirm it from a primary Russian or Soviet source.
+25. **Hollanda's 1997 interview (T-073):** find a primary publication.
+26. **The Pliny chapter mapping (T-066):** confirm NH 2.100 and 2.148 against the Loeb edition.
+27. **More 19th-century reports** beyond T-004 and T-005 (e.g., 1880s press "meteors"). Not yet researched.
+28. **Valentich (T-074):** the NAA RecordSearch item link (only a scan host was reached).
+29. **The MC-019 gap** in the checker is a formatting artifact (MC-019 sits inline). Verify it.

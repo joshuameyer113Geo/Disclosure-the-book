@@ -1,0 +1,415 @@
+# SOURCES (bibliography / source log)
+
+Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S- IDs are permanent and append-only. ARYAN_OCCULT.md and MYTH_CROSSREF.md were not available (lost in the 2026-10-28 wipe), so their AO-/MX- sources are NOT included yet.
+
+## Government Document (46)
+
+- **S-0021** https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf — supports T-008, MC-002
+- **S-0022** https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf — supports T-008
+- **S-0023** https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — supports T-008, MC-002
+- **S-0026** https://www.roswell-nm.gov/1852/UFO-Festival-Report-2023 — supports T-008
+- **S-0027** https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/ — supports T-009, T-015
+- **S-0028** https://www.archives.gov/news/articles/do-records-show-proof-of-ufos — supports T-009
+- **S-0029** https://www.archives.gov/news/articles/project-blue-book-50th-anniversary — supports T-009
+- **S-0032** https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020013-6.pdf — supports T-010
+- **S-0036** https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf — supports T-011, MC-004
+- **S-0038** https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/ — supports T-011
+- **S-0045** https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf — supports T-013, MC-006
+- **S-0063** https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/ — supports T-018
+- **S-0064** https://discovery.nationalarchives.gov.uk/details/r/C10342055 — supports T-018, MC-009
+- **S-0080** https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ — supports T-022, T-026, MC-013
+- **S-0086** https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html — supports T-024, MC-014
+- **S-0092** https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf — supports T-027
+- **S-0096** https://www.aaro.mil/Congressional-Press-Products/ — supports T-028, T-035
+- **S-0098** https://www.congress.gov/event/118th-congress/house-event/116282/text — supports T-029, MC-014
+- **S-0099** https://www.congress.gov/118/chrg/CHRG-118hhrg53022/CHRG-118hhrg53022.pdf — supports T-029
+- **S-0100** https://www.defense.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director- — supports T-029, MC-015
+- **S-0104** https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/ — supports T-030, MC-025
+- **S-0105** https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — supports T-030, MC-025
+- **S-0106** https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm — supports T-030, T-032
+- **S-0107** https://www.congress.gov/event/118th-congress/house-event/117721 — supports T-031
+- **S-0108** https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/ — supports T-031
+- **S-0109** https://docs.house.gov/meetings/GO/GO06/20241113/117722/HHRG-118-GO06-Transcript-20241113.pdf — supports T-031
+- **S-0110** https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ — supports T-032
+- **S-0111** https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf — supports T-033
+- **S-0112** https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/ — supports T-033
+- **S-0113** https://www.war.gov/ufo/ — supports T-034
+- **S-0154** https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text — supports T-054
+- **S-0158** https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text — supports T-056
+- **S-0160** https://www.govinfo.gov/app/details/PLAW-119publ60 — supports T-056
+- **S-0162** https://clerk.house.gov/Votes/2026278 — supports T-057
+- **S-0163** https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions — supports T-057
+- **S-0164** https://www.govinfo.gov/content/pkg/CREC-2026-07-22/html/CREC-2026-07-22-pt1-PgD759.htm — supports T-057
+- **S-0186** https://pubs.giss.nasa.gov/docs/2007/2007_Stothers_st02710y.pdf — supports T-065, T-066
+- **S-0192** https://www.war.gov/medialink/ufo/release_05/Aug_07/documents/DOW-UAP-D099_Intelligence-Review-of-Ghost-Rocket-Incidents_1947.pdf — supports T-069
+- **S-0193** https://riksarkivet.se/resurser/spokraketer — supports T-069
+- **S-0201** https://cnes.fr/en/projects/geipan — supports T-072
+- **S-0202** https://www.geipan.fr/en/stats — supports T-072
+- **S-0203** https://geipan.fr/en/actualites/baisse-cas-d — supports T-072
+- **S-0204** https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/decisoes-de-recurso-de-4a-instancia/deliberacoes-anteriores/2012/decisao-0035-60502-000774-2012-53.pdf/%40%40download/file — supports T-073
+- **S-0209** https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf — supports T-075
+- **S-0230** https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Bio-GruschD-20230726.pdf — supports MC-015
+- **S-0232** https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD006.pdf — supports MC-015
+
+## Archive (27)
+
+- **S-0016** https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer — supports T-007, MC-001
+- **S-0039** https://archives.unh.edu/repositories/3/resources/107 — supports T-012, MC-005, MC-026
+- **S-0118** https://web.ics.purdue.edu/~kdickson/qingutr.html — supports T-037, T-045, A-002, A-005
+- **S-0120** https://bibleinterp.arizona.edu/articles/2015/04/day398028 — supports T-038, T-049, T-051, A-003
+- **S-0137** https://carlos.emory.edu/slithering-through-egypt — supports T-047, A-010
+- **S-0141** http://pages.charlotte.edu/john-reeves/wp-content/uploads/sites/521/2013/04/pirqe-de-rabbi-eliezer-131.pdf — supports T-048
+- **S-0165** https://galileo.hsites.harvard.edu/public-announcement — supports T-058
+- **S-0166** https://galileo.hsites.harvard.edu/news/richard-king-mellon-foundation-awards-575000-galileo-project — supports T-058
+- **S-0167** https://galileo.hsites.harvard.edu/organization — supports T-058
+- **S-0168** https://galileo.hsites.harvard.edu/news/galileo-project-publishes-first-peer-reviewed-scientific-papers-jai — supports T-059
+- **S-0171** https://lweb.cfa.harvard.edu/~loeb/GPT.pdf — supports T-059
+- **S-0176** https://archive.org/details/reconstructionso0000russ — supports T-061
+- **S-0179** https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/ — supports T-063
+- **S-0181** https://www.ebl.lmu.de/dictionary/Anunnakk%C5%AB%20I — supports T-063
+- **S-0182** https://www.britishmuseum.org/collection/object/W_K-3375 — supports T-064
+- **S-0183** https://library.biblicalarchaeology.org/sidebar/george-smiths-other-find-the-babylonian-flood-tablet/ — supports T-064
+- **S-0185** http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0152%3Abook%3D21%3Achapter%3D62 — supports T-065
+- **S-0187** https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=2:chapter=34 — supports T-066
+- **S-0188** https://penelope.uchicago.edu/encyclopaedia_romana/britannia/anglo-saxon/lindisfarne/lindisfarne.html — supports T-067
+- **S-0207** https://www.ufoscans.com/file-b1497-v116-783-1047-10491375/ — supports T-074
+- **S-0218** https://en.wikisource.org/wiki/Page:Ruppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/66 — supports MC-003
+- **S-0239** https://sites.usnh.edu/archivalanalysis/hill-collection-overview/ — supports MC-026
+- **S-0240** https://www.bu.edu/library/wp-assets/finding-aids/Fuller-John-G-429.pdf — supports MC-026
+- **S-0244** https://scholars.unh.edu/cgi/viewcontent.cgi?article=2008&context=faculty_pubs — supports MC-028
+- **S-0245** https://archive.org/stream/1966JohnFullerTheInterruptedJourneyTwoLostHoursAboardAFlyingSaucernotOCR/%281966%29%20John%20Fuller%20-%20The%20Interrupted%20Journey%20-%20Two%20Lost%20Hours%20Aboard%20a%20Flying%20Saucer%20%28not%20OCR%29_djvu.txt — supports MC-028
+- **S-0247** https://web.archive.org/web/20081224130133/http:/www.csicop.org/sb/9409/eyesthat.html — supports MC-029
+- **S-0265** https://www.britishmuseum.org/collection/term/BIOG56546 — supports A-010
+
+## Journal (20)
+
+- **S-0003** https://doi.org/10.17192/mjr.2007.11.3617 — supports T-001, T-014, T-017
+- **S-0006** https://doi.org/10.1177/002182867600700207 — supports T-002
+- **S-0020** https://doi.org/10.25940/roper-31087384 — supports T-007
+- **S-0049** https://doi.org/10.20429/aujh.2013.030304 — supports T-014
+- **S-0117** https://doi.org/10.53751/001c.30683 — supports T-036, A-001, A-005
+- **S-0119** https://www.degruyterbrill.com/document/doi/10.1515/9781575068619-009/html — supports T-037, A-002
+- **S-0125** https://doi.org/10.1017/s0956536100000419 — supports T-040, A-008
+- **S-0126** https://doi.org/10.3986/traditio2021500302 — supports T-041, A-011
+- **S-0138** https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1132&context=etd — supports T-047, A-010
+- **S-0139** https://doi.org/10.82308/35086 — supports T-048
+- **S-0146** https://doi.org/10.1163/ej.9789004177277.i-284.30 — supports T-050
+- **S-0170** https://doi.org/10.3390/s25030783 — supports T-059
+- **S-0172** https://www.science.org/doi/10.1126/science.1177265 — supports T-060
+- **S-0173** https://www.science.org/doi/full/10.1126/science.aay5055 — supports T-060
+- **S-0174** https://www.nature.com/articles/359819a0 — supports T-060
+- **S-0175** https://doi.org/10.1029/2011eo250001 — supports T-060
+- **S-0180** https://doi.org/10.1002/9781444338386.wbeah24019 — supports T-063
+- **S-0184** https://digitalcommons.andrews.edu/auss/vol6/iss1/1 — supports T-064
+- **S-0254** https://www.mdpi.com/2077-1444/15/1/131 — supports A-004
+- **S-0263** https://doi.org/10.1002/9781119399919.eahaa00371 — supports A-009
+
+## Press (39)
+
+- **S-0013** https://www.smithsonianmag.com/air-space-magazine/what-were-mysterious-foo-fighters-sighted-ww2-night-flyers-180959847/ — supports T-006
+- **S-0014** https://www.history.com/articles/wwii-ufos-allied-airmen-orange-lights-foo-fighters — supports T-006
+- **S-0017** https://apnews.com/general-news-824242dbbda24a79bb224bd26abe39c8 — supports T-007, MC-001
+- **S-0024** https://www.latimes.com/archives/la-xpm-2007-jul-08-adna-roswell8-story.html — supports T-008
+- **S-0034** https://www.history.com/articles/ufos-washington-white-house-air-force-coverup — supports T-010, MC-004
+- **S-0065** http://news.bbc.co.uk/local/suffolk/hi/people_and_places/history/newsid_9301000/9301923.stm — supports T-018, MC-017, MC-009
+- **S-0070** https://www.theguardian.com/us-news/2019/sep/24/area-51-raid-event-what-happened-nevada — supports T-019, MC-012
+- **S-0074** https://www.nytimes.com/1997/07/27/us/flares-caused-old-sky-lights-air-guard-says.html — supports T-021, MC-011
+- **S-0076** https://www.cnn.com/2007/TECH/science/11/09/simington.ufocommentary/index.html — supports T-021, MC-011
+- **S-0078** https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/ — supports T-022, MC-013
+- **S-0079** https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/ — supports T-022
+- **S-0081** https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter — supports T-022, MC-013
+- **S-0083** https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html — supports T-023, T-025
+- **S-0084** https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html — supports T-023
+- **S-0085** https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html — supports T-024, MC-014
+- **S-0089** https://www.nytimes.com/2017/12/18/podcasts/the-daily/ufo-pentagon-program.html — supports T-025
+- **S-0091** https://www.cnn.com/2020/04/27/politics/pentagon-ufo-videos/index.html — supports T-026
+- **S-0093** https://apnews.com/article/technology-government-and-politics-f5f24502d97072fd4bef34b6fe36c81d — supports T-027
+- **S-0094** https://www.cnn.com/2021/06/25/politics/ufo-report-pentagon-odni — supports T-027
+- **S-0101** https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch — supports T-029
+- **S-0102** https://www.newsweek.com/ufo-hearings-americans-views-poll-house-oversight-committee-1819189 — supports T-029
+- **S-0103** https://www.newsweek.com/ufo-suspicions-intellingence-officer-alien-claims-david-grusch-investigated-congress-1811960 — supports T-029
+- **S-0114** https://www.reuters.com/world/trump-releases-previously-classified-ufo-files-2026-05-08/ — supports T-034
+- **S-0115** https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a — supports T-034
+- **S-0128** https://www.spiegel.de/politik/datum-19-maerz-1973-daeniken-a-b8f18ed3-0002-0001-0000-000042645310 — supports T-042, A-007
+- **S-0129** https://www.spiegel.de/politik/er-ist-nie-in-den-hoehlen-gewesen-a-9e2665f7-0002-0001-0000-000042645392 — supports T-042, A-007
+- **S-0132** https://www.politico.com/blogs/media/2013/04/the-craziest-ppp-survey-ever-160705 — supports T-044, A-013
+- **S-0177** https://www.scientificamerican.com/blog/tetrapod-zoology/dinosauroids-revisited-revisited/ — supports T-061, T-062
+- **S-0178** https://www.nationalgeographic.com/science/article/troodon-sapiens-thoughts-on-the-dinosauroid — supports T-061, T-062
+- **S-0195** https://eastoregonian.com/2017/06/16/the-sighting/ — supports T-070
+- **S-0210** https://www.bbc.com/news/uk-22991014 — supports T-075
+- **S-0212** https://www.reuters.com/world/asia-pacific/japan-lawmakers-want-govt-guard-against-security-risks-ufos-2024-05-29/ — supports T-076
+- **S-0213** https://japannews.yomiuri.co.jp/politics/politics-government/20240529-188959/ — supports T-076
+- **S-0214** https://www.nikkei.com/article/DGXZQOUA165760W5A510C2000000/ — supports T-076
+- **S-0217** https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot — supports MC-003
+- **S-0231** https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/ — supports MC-015
+- **S-0234** https://www.nytimes.com/2024/08/16/books/booksupdate/imminent-luiz-elizondo.html — supports MC-020
+- **S-0259** https://www.nytimes.com/1974/03/31/archives/erich-von-danikens-genesis.html — supports A-007
+- **S-0270** http://www.theguardian.com/world/2013/apr/02/americans-obama-anti-christ-conspiracy-theories — supports A-013
+
+## Book (4)
+
+- **S-0149** https://books.google.com/books?id=JDszAu42uOwC — supports T-052
+- **S-0225** https://nara-media.s3.amazonaws.com/seattle/rg-237/733667/box_1/733667-001-024/733667-001-024.pdf — supports MC-010
+- **S-0250** https://www.eisenbrauns.org/books/titles/978-1-57506-184-9.html — supports A-001
+- **S-0268** https://books.google.com/books/about/The_Biggest_Secret.html?id=PFyVsClpXJoC — supports A-012
+
+## Database (23)
+
+- **S-0002** https://en.wikipedia.org/wiki/The_Spaceships_of_Ezekiel — supports T-001
+- **S-0030** https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident — supports T-009
+- **S-0031** https://www.nicap.org/waves/pressconf_1952.htm — supports T-010, MC-004
+- **S-0037** https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf — supports T-011
+- **S-0048** https://www.nicap.org/reports/640424zamora2.htm — supports T-013
+- **S-0051** https://en.wikipedia.org/wiki/Ancient_Aliens — supports T-014
+- **S-0058** https://www.nicap.org/reports/751105snowflake_report.htm — supports T-016
+- **S-0059** https://en.wikipedia.org/wiki/Travis_Walton_incident — supports T-016
+- **S-0156** https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/12/Pages-from-FY24-NDAA-Conference-Report-FINAL-2.pdf — supports T-055
+- **S-0197** https://www.nicap.org/reports/arnold_1947a.htm — supports T-070
+- **S-0206** https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato — supports T-073
+- **S-0216** https://en.wikipedia.org/wiki/Jesse_Marcel — supports MC-002
+- **S-0219** https://www.nicap.org/docs/mantell/analysis_mantell_randle.pdf — supports MC-003
+- **S-0222** https://en.wikipedia.org/wiki/Malmstrom_UFO_incident — supports MC-007
+- **S-0227** https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-023.pdf — supports MC-010
+- **S-0233** https://www.theblackvault.com/documentarchive/dod-inspector-general-releases-transcript-of-luis-elizondo-interview-much-more/ — supports MC-019
+- **S-0235** https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf — supports MC-022
+- **S-0236** http://www.nicap.org/reports/731018mansfield_foia.htm — supports MC-022
+- **S-0238** https://en.wikipedia.org/wiki/Westall_UFO — supports MC-024
+- **S-0241** https://nicap.org/reports/610919hill_report1.pdf — supports MC-027
+- **S-0242** https://nicap.org/reports/610919hill_report2.pdf — supports MC-027
+- **S-0267** https://en.wikipedia.org/wiki/George_Adamski — supports A-011
+- **S-0269** https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory — supports A-012
+
+## Web (111)
+
+- **S-0001** https://skeptoid.com/episodes/449 — supports T-001, T-014
+- **S-0004** https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/ — supports T-001, T-014
+- **S-0005** https://www.e-manuscripta.ch/zuzneb/content/titleinfo/2723858 — supports T-002
+- **S-0007** https://swisscollections.ub.k8s-001.unibas.ch/Record/991057266959705501 — supports T-002, T-003
+- **S-0008** https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/ — supports T-003
+- **S-0009** https://weightofevidence.org/cases/basel-1566 — supports T-003
+- **S-0010** https://www.texasalmanac.com/articles/when-airships-invaded-texas — supports T-004, T-005
+- **S-0011** https://www.tshaonline.org/texas-day-by-day/entry/118 — supports T-004, T-005
+- **S-0012** https://www.dmagazine.com/frontburner/2021/06/aurora-ufo-crash-texas/ — supports T-005
+- **S-0015** https://ufotransparency.com/files/331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents — supports T-006
+- **S-0018** https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer — supports T-007
+- **S-0019** https://project1947.com/fig/gallup.htm — supports T-007
+- **S-0025** https://www.newmexico.org/places-to-visit/regions/southeast/roswell-ufo-museum/ — supports T-008
+- **S-0033** https://files.ncas.org/condon/text/appndx-l.htm — supports T-010
+- **S-0035** https://archive.seattletimes.com/archive/20020727/ufos27/something-in-the-air-50-years-ago-ufos-streaked-over-dc — supports T-010
+- **S-0040** https://www.hmdb.org/m.asp?m=74571 — supports T-012, MC-005
+- **S-0041** https://www.bostonglobe.com/metro/2011/09/18/marks-golden-anniversary-couple-reported-abduction-with-marker-site/AbbgAb9441DMutJrDqacON/story.html — supports T-012
+- **S-0042** https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/ — supports T-012, MC-005
+- **S-0043** https://www.davidhalperin.net/outtakes-of-a-ufo-investigator-ufo-abductions-become-part-of-us/ — supports T-012
+- **S-0044** https://lithub.com/revisiting-the-infamous-hill-case-in-an-era-of-more-ufo-news-and-government-secrets/ — supports T-012
+- **S-0046** https://socorro-history.org/HISTORY/PH_History/200808_socorro_ufo.pdf — supports T-013, MC-006
+- **S-0047** http://iapsop.com/archive/materials/nicap_reporter/nicap_reporter_v2_n08_may_1964_i20.pdf — supports T-013, MC-006
+- **S-0050** https://archive.archaeology.org/0305/abstracts/books.html — supports T-014
+- **S-0052** https://files.ncas.org/condon/text/s5chap02.htm — supports T-015
+- **S-0053** https://files.ncas.org/condon/text/s3chap07.htm — supports T-015
+- **S-0054** https://news.gallup.com/vault/190592/gallup-vault-eyewitnesses-flying-saucers.aspx — supports T-015
+- **S-0055** https://www.wmicentral.com/news/fire-in-the-sky-50-years-later-the-abduction-tale-that-still-divides-the-white/article_f48b2c7f-65bf-4a2c-bd96-45e467234f25.html — supports T-016, MC-008
+- **S-0056** https://realufo.org/case/travis-walton — supports T-016, MC-008
+- **S-0057** https://rr0.org/time/1/9/7/6/06/WaltonAbductionCoverUpRevealed_UfoInvestigator/ — supports T-016, MC-008
+- **S-0060** https://www.sitchiniswrong.com/nibirunew.pdf — supports T-017, A-006
+- **S-0061** https://michaelsheiserfoundation.org/articles/new-research-on-nibiru-shows-sitchin-is-still-wrong/ — supports T-017, A-006
+- **S-0062** https://creske.com/topics/pseudoscience/zecharia-sitchin-and-the-anunnaki.html — supports T-017
+- **S-0066** https://www.papooselake.org/interview-transcripts/1989-on-the-record-with-george-knapp — supports T-019, MC-012
+- **S-0067** https://weightofevidence.org/cases/lazar-claims-1989 — supports T-019, MC-012
+- **S-0068** https://kb42.info/index.php/Bob_Lazar_--_The_Credential_Problem:_MIT_Caltech_and_Los_Alamos — supports T-019
+- **S-0069** https://joe-rogan-experience.com/episode/1315 — supports T-019
+- **S-0071** https://irdial.com/triangle_1.htm — supports T-020, MC-021
+- **S-0072** https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31 — supports T-020, MC-021
+- **S-0073** https://uapcodex.org/cases/belgian-wave-1989/ — supports T-020
+- **S-0075** https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/ — supports T-021
+- **S-0077** https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/ — supports T-021, MC-011
+- **S-0082** https://www.youtube.com/watch?v=jC_IuxZ6qT4 — supports T-022, MC-013
+- **S-0087** https://www.seattletimes.com/nation-world/wow-what-is-that-navy-pilots-report-unexplained-flying-objects/ — supports T-024
+- **S-0088** https://www.irishtimes.com/news/world/us/wow-what-is-that-us-navy-pilots-report-unexplained-flying-objects-1.3906936 — supports T-024
+- **S-0090** https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx — supports T-025, T-026
+- **S-0095** https://news.gallup.com/poll/350096/americans-believe-ufos.aspx — supports T-027
+- **S-0097** https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/ — supports T-028, T-035
+- **S-0116** https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf — supports T-036, A-001
+- **S-0121** https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/how-the-serpent-in-the-garden-became-satan/ — supports T-038, T-049, A-003
+- **S-0122** https://ms.fortresspress.com/downloads/9781451490329_Chapter%202%20excerpt.pdf — supports T-039, A-004
+- **S-0123** https://brill.com/display/book/9789004513815/BP000012.xml?language=en — supports T-039, A-004
+- **S-0124** https://www.metmuseum.org/essays/teotihuacan-ciudadela — supports T-040, A-008
+- **S-0127** https://rr0.org/time/1/9/5/3/Adamski_FlyingSaucersHaveLanded/22/index.html — supports T-041, A-011
+- **S-0130** https://scispace.com/pdf/david-icke-s-reptilian-thesis-and-the-development-of-new-age-2l32gc9m6i.pdf — supports T-043, T-051, A-012
+- **S-0131** https://historyatkingston.wordpress.com/2024/04/20/history-as-conspiracy-theory-the-case-of-david-icke-and-the-protocols/ — supports T-043, A-012
+- **S-0133** https://www.theatlantic.com/national/2013/04/12-million-americans-believe-lizard-people-run-our-country/316706/ — supports T-044, A-013
+- **S-0134** https://omnika.org/stable/66 — supports T-045, A-001, A-005
+- **S-0135** https://www.encyclopedia.com/literature-and-arts/classical-literature-mythology-and-folklore/folklore-and-mythology/nagas — supports T-046, A-009
+- **S-0136** https://epitaka.org/en/book/Vin-iii/3-mucalindakath%C4%81-33 — supports T-046, A-009
+- **S-0140** https://jwa.org/encyclopedia/article/eve-midrash-and-aggadah — supports T-048
+- **S-0142** https://www.sefaria.org/topics/sin-and-punishment-of-the-serpent — supports T-048
+- **S-0143** https://theoluniv.ub.rug.nl/146/1/Lagunov_S_Following%20the%20traces%20of%20the%20serpent_14febr2019.pdf — supports T-049, A-003
+- **S-0144** http://gnosis.org/naghamm/hypostas.html — supports T-050
+- **S-0145** http://www.gnosis.org/naghamm/testruth.html — supports T-050
+- **S-0147** https://referenceworks.brill.com/display/entries/DGWO/DGWE-268.xml?language=en — supports T-050
+- **S-0148** https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165044/p48.pdf — supports T-052
+- **S-0150** https://futureofmankind.info/Billy_Meier/Analysis_of_Korff%27s_Spaceships_of_the_Pleiades_(small_version — supports T-052
+- **S-0151** https://www.imdb.com/title/tt13633356/ — supports T-053
+- **S-0152** https://news.sky.com/story/who-is-david-icke-the-conspiracy-theorist-who-claims-he-is-the-son-of-god-11982406 — supports T-053
+- **S-0153** https://en.wikiquote.org/wiki/David_Icke — supports T-053
+- **S-0155** https://www.paradigmresearchgroup.org/FY2024_NDAA_UAP_Signed.pdf — supports T-054, T-055
+- **S-0157** https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/ — supports T-055
+- **S-0159** https://www.everycrsreport.com/reports/IN12653.html — supports T-056
+- **S-0161** https://www.disclosurediaries.com/legislation-tracker/ — supports T-056, T-057
+- **S-0169** https://www.worldscientific.com/doi/10.1142/S2251171723400032 — supports T-059
+- **S-0189** https://www.jasoncolavito.com/blog/the-byland-abbey-ufo-sighting-anatomy-of-a-hoax — supports T-067, T-068
+- **S-0190** https://rr0.org/science/crypto/ufo/enquete/dossier/Byland/index.html — supports T-068
+- **S-0191** https://ufodecoder.com/cases/1290/byland-abbey/ — supports T-068
+- **S-0194** https://www.ufo.se/images/UFO/pdf/Spkrakterna1946_GJ.pdf — supports T-069
+- **S-0196** https://www.wordorigins.org/big-list-entries/flying-saucer — supports T-070
+- **S-0198** https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/ — supports T-071
+- **S-0199** http://www.biophys.ru/archive/bulletin/vzn_06_p81.pdf — supports T-071
+- **S-0200** https://noufors.com/Documents/Platov.pdf — supports T-071
+- **S-0205** https://sinalruido.com.br/documentos/operacao-prato-colares-01/ — supports T-073
+- **S-0208** https://ufos-scientificresearch.blogspot.com/2015/09/found-two-more-australian-government.html — supports T-074
+- **S-0211** http://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf — supports T-075
+- **S-0215** https://www.ufologie.patrickgross.org/htm/arnoldrepaf.htm — supports MC-001
+- **S-0220** https://skeptoid.com/episodes/842 — supports MC-007
+- **S-0221** https://uaprad.org/witnesses/robert-salas/ — supports MC-007
+- **S-0223** https://www.theufochronicles.com/2010/09/echooscar-witch-hunt.html — supports MC-007
+- **S-0224** http://ianridpath.com/ufo/appendix.html — supports MC-009
+- **S-0226** https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/ — supports MC-010
+- **S-0228** https://www.anchoragepress.com/news/unfriendly-skies-the-extraordinary-flight-of-jal-1628-alaska-s-best-known-ufo-encounter/article/_8e2d3270-f9d5-11e9-b9db-7ba9229138ae.html — supports MC-018
+- **S-0229** https://kb42.info/index.php/Japan_Air_Lines_Institutional_Response — supports MC-018
+- **S-0237** https://www.upi.com/Archives/1973/10/17/Buzzing-creatures-take-shook-up-fishermen-aboard-blue-spaceship/4131549552716/ — supports MC-023
+- **S-0243** https://www.kathleen-marden.com/the-hill-dream-transference-hypothesis.php — supports MC-027
+- **S-0246** https://skepticalinquirer.org/newsletter/eyes-that-spoke/ — supports MC-029
+- **S-0248** https://www.jasoncolavito.com/alien-abduction-at-the-outer-limits.html — supports MC-029
+- **S-0249** https://www.jasoncolavito.com/blog/the-eyes-have-it-which-outer-limits-alien-inspired-barney-hills-abduction — supports MC-029
+- **S-0251** https://ilarchive.com/en/entities/we-alla-atrahasis-slain-god — supports A-001
+- **S-0252** https://www.pineycom.com/EnumaBar6.html — supports A-002
+- **S-0253** https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/ — supports A-002
+- **S-0255** https://www.sblcentral.org/home/bookDetails/13602 — supports A-004
+- **S-0256** https://drmsh.com/zechariah-sitchins-contribution-to-paleobabble/ — supports A-006
+- **S-0257** https://www.sitchiniswrong.com/sitchinerrors.htm — supports A-006
+- **S-0258** https://www1.wdr.de/stichtag/stichtag-154.html — supports A-007
+- **S-0260** https://www.mesoweb.com/publications/Works1/Taube[1992 — supports A-008
+- **S-0261** https://www.ancientamericas.org/sites/default/files/96036Cowgill01.pdf — supports A-008
+- **S-0262** https://kids.britannica.com/scholars/article/naga/54633 — supports A-009
+- **S-0264** http://www.metmuseum.org/exhibitions/divine-egypt/exhibition-objects — supports A-010
+- **S-0266** https://overclassified.org/case-files/george-adamskis-desert-center-contact.html — supports A-011
+
+## Reverse index: claim → sources
+
+- T-001: S-0001, S-0002, S-0003, S-0004
+- T-002: S-0005, S-0006, S-0007
+- T-003: S-0008, S-0009, S-0007
+- T-004: S-0010, S-0011
+- T-005: S-0011, S-0012, S-0010
+- T-006: S-0013, S-0014, S-0015
+- T-007: S-0016, S-0017, S-0018, S-0019, S-0020
+- T-008: S-0021, S-0022, S-0023, S-0024, S-0025, S-0026
+- T-009: S-0027, S-0028, S-0029, S-0030
+- T-010: S-0031, S-0032, S-0033, S-0034, S-0035
+- T-011: S-0036, S-0037, S-0038
+- T-012: S-0039, S-0040, S-0041, S-0042, S-0043, S-0044
+- T-013: S-0045, S-0046, S-0047, S-0048
+- T-014: S-0049, S-0001, S-0003, S-0004, S-0050, S-0051
+- T-015: S-0052, S-0027, S-0053, S-0054
+- T-016: S-0055, S-0056, S-0057, S-0058, S-0059
+- T-017: S-0060, S-0061, S-0062, S-0003
+- T-018: S-0063, S-0064, S-0065
+- T-019: S-0066, S-0067, S-0068, S-0069, S-0070
+- T-020: S-0071, S-0072, S-0073
+- T-021: S-0074, S-0075, S-0076, S-0077
+- T-022: S-0078, S-0079, S-0080, S-0081, S-0082
+- T-023: S-0083, S-0084
+- T-024: S-0085, S-0086, S-0087, S-0088
+- T-025: S-0083, S-0089, S-0090
+- T-026: S-0080, S-0091, S-0090
+- T-027: S-0092, S-0093, S-0094, S-0095
+- T-028: S-0096, S-0097
+- T-029: S-0098, S-0099, S-0100, S-0101, S-0102, S-0103
+- T-030: S-0104, S-0105, S-0106
+- T-031: S-0107, S-0108, S-0109
+- T-032: S-0106, S-0110
+- T-033: S-0111, S-0112
+- T-034: S-0113, S-0114, S-0115
+- T-035: S-0097, S-0096
+- T-036: S-0116, S-0117
+- T-037: S-0118, S-0119
+- T-038: S-0120, S-0121
+- T-039: S-0122, S-0123
+- T-040: S-0124, S-0125
+- T-041: S-0126, S-0127
+- T-042: S-0128, S-0129
+- T-043: S-0130, S-0131
+- T-044: S-0132, S-0133
+- T-045: S-0134, S-0118
+- T-046: S-0135, S-0136
+- T-047: S-0137, S-0138
+- T-048: S-0139, S-0140, S-0141, S-0142
+- T-049: S-0121, S-0120, S-0143
+- T-050: S-0144, S-0145, S-0146, S-0147
+- T-051: S-0120, S-0130
+- T-052: S-0148, S-0149, S-0150
+- T-053: S-0151, S-0152, S-0153
+- T-054: S-0154, S-0155
+- T-055: S-0155, S-0156, S-0157
+- T-056: S-0158, S-0159, S-0160, S-0161
+- T-057: S-0162, S-0163, S-0164, S-0161
+- T-058: S-0165, S-0166, S-0167
+- T-059: S-0168, S-0169, S-0170, S-0171
+- T-060: S-0172, S-0173, S-0174, S-0175
+- T-061: S-0176, S-0177, S-0178
+- T-062: S-0177, S-0178
+- T-063: S-0179, S-0180, S-0181
+- T-064: S-0182, S-0183, S-0184
+- T-065: S-0185, S-0186
+- T-066: S-0186, S-0187
+- T-067: S-0188, S-0189
+- T-068: S-0189, S-0190, S-0191
+- T-069: S-0192, S-0193, S-0194
+- T-070: S-0195, S-0196, S-0197
+- T-071: S-0198, S-0199, S-0200
+- T-072: S-0201, S-0202, S-0203
+- T-073: S-0204, S-0205, S-0206
+- T-074: S-0207, S-0208
+- T-075: S-0209, S-0210, S-0211
+- T-076: S-0212, S-0213, S-0214
+- MC-001: S-0016, S-0017, S-0215
+- MC-002: S-0021, S-0216, S-0023
+- MC-003: S-0217, S-0218, S-0219
+- MC-004: S-0034, S-0031, S-0036
+- MC-005: S-0042, S-0039, S-0040
+- MC-006: S-0045, S-0046, S-0047
+- MC-007: S-0220, S-0221, S-0222, S-0223
+- MC-017: S-0065
+- MC-008: S-0055, S-0056, S-0057
+- MC-009: S-0064, S-0065, S-0224
+- MC-010: S-0225, S-0226, S-0227
+- MC-018: S-0228, S-0229
+- MC-011: S-0074, S-0076, S-0077
+- MC-012: S-0067, S-0066, S-0070
+- MC-013: S-0078, S-0081, S-0082, S-0080
+- MC-014: S-0085, S-0098, S-0086
+- MC-015: S-0230, S-0231, S-0232, S-0100
+- MC-016: (no URL in block; see parent entry)
+- MC-019: S-0233
+- MC-020: S-0234
+- MC-021: S-0071, S-0072
+- MC-022: S-0235, S-0236
+- MC-023: S-0237
+- MC-024: S-0238
+- MC-025: S-0105, S-0104
+- MC-026: S-0039, S-0239, S-0240
+- MC-027: S-0241, S-0242, S-0243
+- MC-028: S-0244, S-0245
+- MC-029: S-0246, S-0247, S-0248, S-0249
+- A-001: S-0116, S-0134, S-0250, S-0117, S-0251
+- A-002: S-0118, S-0252, S-0119, S-0253
+- A-003: S-0120, S-0121, S-0143
+- A-004: S-0122, S-0123, S-0254, S-0255
+- A-005: S-0134, S-0118, S-0117
+- A-006: S-0256, S-0257, S-0061, S-0060
+- A-007: S-0128, S-0129, S-0258, S-0259
+- A-008: S-0124, S-0125, S-0260, S-0261
+- A-009: S-0135, S-0262, S-0136, S-0263
+- A-010: S-0137, S-0264, S-0138, S-0265
+- A-011: S-0126, S-0127, S-0266, S-0267
+- A-012: S-0130, S-0131, S-0268, S-0269
+- A-013: S-0132, S-0133, S-0270
