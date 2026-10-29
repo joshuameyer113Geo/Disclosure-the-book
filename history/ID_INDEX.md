@@ -175,8 +175,11 @@
 - AO-020: When "Nordic" entered ufology (gap)
 - AO-021: Reptilian lineage: Howard 1929 → Doreal → Lacerta → Icke
 - AO-022: Barkun's antisemitism critique
+- AO-023: Ravenscroft, *Spear of Destiny* (1972) and the Eckart quote (unconfirmed in text)
+- AO-024: Germanenorden (1912) and Thule (Aug 1918), per the Bavarian lexicon
+- AO-025: Summerhayes & Beeching, *Polar Record* 2007, citation confirmed
 
-*Next free: AO-023*
+*Next free: AO-026*
 
 ## MX — MYTH_CROSSREF.md
 - MX-001: Poetic and Prose Eddas; Snorri's euhemerism
@@ -191,5 +194,14 @@
 - MX-010: Utsuro-bune (1803): texts, Yanagita, Tanaka
 - MX-011: Xu Fu in the *Shiji*; Japan legend
 - MX-012: Kaguya-hime; Happy Science alien reading
+- MX-013: Fort, *The Book of the Damned* (1919)
+- MX-014: W. Raymond Drake bibliography (1964–76)
+- MX-015: Colavito (2012) on Fu Xi in the *Shiji*
+- MX-016: Kuki catalogue: Utsuro-bune as UFO from 1955–64
+- MX-017: Tanaka's eleven documents (later 13 types)
+- MX-018: *Yichu liutie* (954; Japan entry after 958)
+- MX-019: Itajubá cat-faced case, NAA A13693 Case 848
+- MX-020: Quarouble as Case 144 (pairing contested)
+- MX-021: Abduction psychology citations (Spanos, Clancy, McNally, Hufford)
 
-*Next free: MX-013*
+*Next free: MX-022*

@@ -156,3 +156,15 @@ Generated 2026-10-28. Chapter mapping: Eden Writer's mapping plus the Historian'
 | MX-010 | Utsuro-bune (Hitachi, 1803) | S-0317, S-0318, S-0319 | contested | 9 | MYTH_CROSSREF.md |
 | MX-011 | Xu Fu (Sima Qian, *Shiji*) | S-0320, S-0321, S-0322 | contested | 9 | MYTH_CROSSREF.md |
 | MX-012 | Kaguya-hime (*Taketori monogatari*, 10th c.) | S-0323, S-0324 | lore | 9 | MYTH_CROSSREF.md |
+| AO-023 | Ravenscroft, *The Spear of Destiny* (1972) and the Eckart "dance" quote | S-0325, S-0326, S-0327 | contested | 9 | ARYAN_OCCULT.md |
+| AO-024 | Germanenorden (1912) and the Thule Society (Aug 1918): Bavarian lexicon dating | S-0328, S-0329 | fact | 9 | ARYAN_OCCULT.md |
+| AO-025 | Summerhayes & Beeching citation confirmed | S-0330, S-0331 | fact | 9;11 | ARYAN_OCCULT.md |
+| MX-013 | Charles Fort, *The Book of the Damned* (1919) | S-0332, S-0333 | fact | 9 | MYTH_CROSSREF.md |
+| MX-014 | W. Raymond Drake's ancient-astronaut books | S-0334 | lore | 9 | MYTH_CROSSREF.md |
+| MX-015 | Colavito on Fu Xi in the *Shiji* (Dec 26, 2012) | S-0335 | fact | 9 | MYTH_CROSSREF.md |
+| MX-016 | Kuki city catalogue: Utsuro-bune read as a UFO from the Shōwa 30s (1955–64) | S-0336 | fact | 9 | MYTH_CROSSREF.md |
+| MX-017 | Tanaka's "eleven documents." | S-0337, S-0338 | fact | 9 | MYTH_CROSSREF.md |
+| MX-018 | The *Yichu liutie* (*Shishi liutie*) date | S-0339, S-0340, S-0341, S-0342 | fact | 9 | MYTH_CROSSREF.md |
+| MX-019 | Itajubá "cat-faced" occupants (Brazil, 1967) and NAA A13693 Case 848 | S-0343, S-0344, S-0345, S-0346 | lore | 9 | MYTH_CROSSREF.md |
+| MX-020 | Quarouble (France, 1954) as Case 144 in the same file | S-0343 | contested | 9 | MYTH_CROSSREF.md |
+| MX-021 | Psychology of abduction reports: citations confirmed | S-0347, S-0348, S-0349, S-0350, S-0351 | fact | 9;16;28 | MYTH_CROSSREF.md |

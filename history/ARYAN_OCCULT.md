@@ -1,6 +1,6 @@
 # ARYAN_OCCULT: Nazi-era occultism, postwar lore, and the "Nordic"/"reptilian" labels
 
-Research file for *Disclosure*. Claim IDs AO-001 to AO-022. Tags: **Fact** (documented), **Contested** (scholars disagree or the evidence is thin), **Lore** (postwar or fringe invention, with who originated it and the year).
+Research file for *Disclosure*. Claim IDs AO-001 to AO-025. Tags: **Fact** (documented), **Contested** (scholars disagree or the evidence is thin), **Lore** (postwar or fringe invention, with who originated it and the year).
 Cross-refs to TIMELINE.md: T-041 (Adamski/Orthon), T-043 (Icke 1999), T-044 (PPP 2013 poll), T-052 (Meier), T-053 (Icke on *Wogan*, 1991). See also ANCIENT_LORE A-011 and A-012. All URLs were re-checked live on Oct 28, 2026 (regenerated after the workspace wipe).
 
 ## Part 1: Documented history (1871–1945)
@@ -118,6 +118,22 @@ Cross-refs to TIMELINE.md: T-041 (Adamski/Orthon), T-043 (Icke 1999), T-044 (PPP
 - **Motive/credibility note (Writer's territory):** the overlap between the Nordic and reptilian dualism and Nazi-era racial ideas (AO-005, AO-014) is an interpretive theme. Use it only with attribution.
 - **Reception:** 4% PPP poll (T-044). The reptilian trope also turns up in politics, e.g. the "Lizard People" write-in in Minnesota in 2008.
 - Sources: https://www.ucpress.edu/books/a-culture-of-conspiracy/paper ; https://www.degruyterbrill.com/document/doi/10.1525/9780520956520-008/html ; https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory
+
+## Part 5: Ch9 verification additions (Oct 28, 2026)
+
+### [AO-023] Ravenscroft, *The Spear of Destiny* (1972) and the Eckart "dance" quote. **Fact (publication); the quote is Lore; whether this book is its first printing is Contested**
+- First published by Neville Spearman, London, 1972; Putnam US edition 1973 (hence the 1973 date in some citations, e.g. Encyclopedia.com "London, 1973"). Goodrick-Clarke calls it the most influential English work on "Nazi mysteries"; Ken Anderson (1995) debunked it.
+- Encyclopedia.com's Thule entry gives the full deathbed quote and lists Ravenscroft as its reference. A Substack source trail (Haemers) follows a citation to the Weiser 1982 edition, p. 91, via Lutzer's *Hitler's Cross*; it does not quote the page itself. Ravenscroft said he used "mystical meditation" for parts of the book.
+- **Unconfirmed:** I could not read the book's text (Internet Archive copies are loan-only, and full-text search returned nothing). Ravenscroft 1972 predates Brennan 1974 (AO-012). If the quote is on p. 91 it would be the earlier printing, but that is not verified.
+- Sources: https://en.wikipedia.org/wiki/The_Spear_of_Destiny_(book) ; https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/thule-society ; https://karlhaemers.substack.com/p/atwill-vs-haemers-who-created-the
+
+### [AO-024] Germanenorden (1912) and the Thule Society (Aug 1918): Bavarian lexicon dating. **Fact**
+- Historisches Lexikon Bayerns: the Germanenorden was a völkisch-antisemitic secret league that came out of Theodor Fritsch's Reichshammerbund, founded at Pentecost 1912 (May 26) in Leipzig. The Thule Society came out of the Germanenorden in August 1918 under Sebottendorff. This supports AO-002 and the draft's 1912 date.
+- Sources: https://www.historisches-lexikon-bayerns.de/Lexikon/Germanenorden ; https://www.historisches-lexikon-bayerns.de/Lexikon/Thule-Gesellschaft,_1918-1933
+
+### [AO-025] Summerhayes & Beeching citation confirmed. **Fact**
+- Colin Summerhayes (Scott Polar Research Institute) and Peter Beeching, "Hitler's Antarctic base: the myth and the reality," *Polar Record* 43(224): 1–21 (Jan 2007; online Jan 16, 2007), doi:10.1017/S003224740600578X. Findings: no secret wartime German base in Dronning Maud Land; the two U-boats could not have reached Antarctica; Highjump was training for a possible Arctic war. Use this in place of the academia.edu link in the draft (supports AO-007, AO-015).
+- Sources: https://doi.org/10.1017/s003224740600578x ; https://www.cambridge.org/core/journals/polar-record/article/abs/hitlers-antarctic-base-the-myth-and-the-reality/56465FFEA98E416F559C7F02AB20CE19
 
 ## Gaps
 1. The first printing of the Eckart "dance" quote before 1974 (check Ravenscroft 1973 and Pauwels & Bergier 1960 directly). Note: the ch9 draft says Ravenscroft 1972; not verified.
