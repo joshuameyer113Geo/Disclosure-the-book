@@ -70,7 +70,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://www.smithsonianmag.com/air-space-magazine/what-were-mysterious-foo-fighters-sighted-ww2-night-flyers-180959847/ ; https://www.history.com/articles/wwii-ufos-allied-airmen-orange-lights-foo-fighters ; https://ufotransparency.com/files/331-120752-numeric-files-1944-1945-37153-german-armament-equipment-documents
 - **Public & cultural reception:** The Associated Press broke the story on Jan 1, 1945, and the press floated flares, balloons, and St. Elmo's fire as explanations. The term "foo fighter" entered popular culture. Sources: https://www.history.com/articles/wwii-ufos-allied-airmen-orange-lights-foo-fighters ; https://www.smithsonianmag.com/air-space-magazine/what-were-mysterious-foo-fighters-sighted-ww2-night-flyers-180959847/
 - **Motive/credibility note (Writer's territory, analysis not fact):** Aircrews under combat stress, with St. Elmo's fire and enemy-technology fears. The reports were sincere but ambiguous.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Night sky over the Rhine Valley, winter 1944-45: 415th Night Fighter Squadron Beaufighter crew sees glowing orange/red balls pacing the aircraft. Reference: https://en.wikipedia.org/wiki/Foo_fighter
+- **Imagery:** `T-006_foo-fighters_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28). Reference: https://en.wikipedia.org/wiki/Foo_fighter.
 
 ### 7. [T-007] Kenneth Arnold sighting: June 24, 1947, near Mount Rainier, Washington
 - **Tag:** In between. *Reason: the sighting and its press coverage are documented, but what he saw is unknown.*
@@ -169,7 +169,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://www.sitchiniswrong.com/nibirunew.pdf ; https://michaelsheiserfoundation.org/articles/new-research-on-nibiru-shows-sitchin-is-still-wrong/ ; https://creske.com/topics/pseudoscience/zecharia-sitchin-and-the-anunnaki.html
 - **Public & cultural reception:** Influential in New Age and "Nibiru" doomsday circles (per critics). Academic rebuttals come from scholars of ancient Near Eastern languages. No solid source found for sales or poll data. Sources: https://michaelsheiserfoundation.org/articles/new-research-on-nibiru-shows-sitchin-is-still-wrong/ ; https://doi.org/10.17192/mjr.2007.11.3617
 - **Motive/credibility note (Writer's territory, analysis not fact):** Book sales and guru status. He had no peer-reviewed credentials.
-- **Imagery:** `T-017_va243-cylinder-seal.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: The original uploader was IronyWrit at English Wikipedia.. Source: https://commons.wikimedia.org/wiki/File:Mesopotamian_cylinder_seal_impression.jpg. Note: Seal VA 243 cited by Sitchin; identity of this exact impression should be verified. MISMATCH (verified 2026-10-28): the Commons description says this is a 1st-millennium BCE seal (worshipper, fish-garbed sage, dragon of Marduk), NOT VA 243, which is an Akkadian seal in Berlin's Vorderasiatisches Museum (Heiser, https://sitchiniswrong.com/VA243seal.pdf). Replace or recaption.
+- **Imagery:** `T-017_va243-cylinder-seal.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: The original uploader was IronyWrit at English Wikipedia.. Source: https://commons.wikimedia.org/wiki/File:Mesopotamian_cylinder_seal_impression.jpg. Note: Babylonian cylinder seal (illustrative; not VA 243). Commons "Ancient Sumerian cylinder seal.webp" (labelled VA/243) rejected: CC BY-SA 4.0 "own work" by BlueGhast, no provenance for a museum artifact image, license not credible.
 
 ### 18. [T-018] Rendlesham Forest: Dec 26–28, 1980, near RAF Woodbridge/Bentwaters, Suffolk, UK
 - **Tag:** In between. *Reason: an official USAF memo exists, but the Orford Ness lighthouse and stars are strong mundane explanations.*
@@ -197,7 +197,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://irdial.com/triangle_1.htm ; https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31 ; https://uapcodex.org/cases/belgian-wave-1989/
 - **Public & cultural reception:** No solid source found for public reception beyond case write-ups.
 - **Motive/credibility note (Writer's territory, analysis not fact):** Real military cooperation. Some photos were later admitted as hoaxes (the Petit-Rechain triangle, 2011).
-- **Imagery:** No free image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Belgium, night of 30-31 Mar 1990: witnesses describe a dark triangular craft with three white lights at the corners and a red centre light; F-16s scramble. Reference: https://commons.wikimedia.org/wiki/File:TriangleBelgium1990.jpg
+- **Imagery:** No image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Belgium, night of 30-31 Mar 1990: witnesses describe a dark triangular craft with three white lights at the corners and a red centre light; F-16s scramble. Reference: https://commons.wikimedia.org/wiki/File:TriangleBelgium1990.jpg
 
 ### 21. [T-021] Phoenix Lights: March 13, 1997, Arizona
 - **Tag:** In between. *Reason: there were mass sightings. Flares and an A-10 formation explain much of it, but the governor later disputed that explanation.*
@@ -205,7 +205,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://www.nytimes.com/1997/07/27/us/flares-caused-old-sky-lights-air-guard-says.html ; https://lasvegassun.com/news/1997/jul/25/military-now-says-flares-may-be-cause-of-mysteriou/ ; https://www.cnn.com/2007/TECH/science/11/09/simington.ufocommentary/index.html
 - **Public & cultural reception:** In 1997, Governor Symington held a press conference with an aide in an alien costume, which drew a wave of media attention. In 2007 he said he had seen the craft himself. Sources: https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/ ; https://www.cnn.com/2007/TECH/science/11/09/simington.ufocommentary/index.html
 - **Motive/credibility note (Writer's territory, analysis not fact):** Military flares explain part of the event. Local politics (the governor's joke) shaped the coverage.
-- **Imagery:** No free image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Phoenix, AZ, evening 13 Mar 1997: a huge V-shaped formation of lights passes slowly overhead; later, a row of hovering orange lights to the southwest. Reference: https://en.wikipedia.org/wiki/Phoenix_Lights
+- **Imagery:** No image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Phoenix, AZ, evening 13 Mar 1997: a huge V-shaped formation of lights passes slowly overhead; later, a row of hovering orange lights to the southwest. Reference: https://en.wikipedia.org/wiki/Phoenix_Lights
 
 ## IV. The Modern UAP Era
 
@@ -311,7 +311,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://www.war.gov/ufo/ ; https://www.reuters.com/world/trump-releases-previously-classified-ufo-files-2026-05-08/ ; https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a
 - **Public & cultural reception:** Disclosure advocates praised the releases. Analysts said many files were already public, and critics including Marjorie Taylor Greene called it a distraction. Trump's framing: "Have Fun and Enjoy!" Sources: https://www.reuters.com/world/trump-releases-previously-classified-ufo-files-2026-05-08/ ; https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a
 - **Motive/credibility note (Writer's territory, analysis not fact):** A release program controls framing through what it selects to release.
-- **Imagery:** `T-034_pursue-dow-uap-pr045-still.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: U.S. Civilian AARO by [null Courtesy]. Source: https://commons.wikimedia.org/wiki/File:DOW-UAP-PR045,_Unresolved_UAP_Report,_Middle_East,_2020_(1006105).webm. Note: Contemporary original (still from DOW-UAP-PR045 release video); confirm it belongs to the PURSUE series. Confirmed as PURSUE: DOW-UAP-PR045 is listed in PURSUE Release 01 (https://uaplocations.com/war-gov/release/01/; war.gov blocks automated fetch).
+- **Imagery:** `T-034_pursue-dow-uap-pr045-still.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: U.S. Civilian AARO by [null Courtesy]. Source: https://commons.wikimedia.org/wiki/File:DOW-UAP-PR045,_Unresolved_UAP_Report,_Middle_East,_2020_(1006105).webm. Note: PURSUE Release 01, public domain. Still from DOW-UAP-PR045 release video (Commons-rendered still).
 
 ### 35. [T-035] AARO FY2025 annual report and the Virginia-coast event: July 2026
 - **Tag:** Reported fact. *Reason: an official report covered by DefenseScoop. The event itself is unresolved.*
@@ -319,7 +319,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/ ; https://www.aaro.mil/Congressional-Press-Products/
 - **Public & cultural reception:** No solid source found beyond defense-trade coverage (DefenseScoop).
 - **Motive/credibility note (Writer's territory, analysis not fact):** An official report. Watch for what is omitted.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Virginia coast, 2025-26: fill in from the AARO FY2025 report's description of the event. Reference: https://www.aaro.mil/ SCENE BRIEF (Fact, from the report's only passage on the event): U.S. Navy assets off the coast of Virginia report "approximately 100 airborne UAP and two, likely uncrewed, surface systems"; AARO counts it as the single maritime-domain case and is "actively investigating". UNKNOWN (not in the report): date (only that it was reported between June 2, 2024 and May 30, 2025; 35 of that period's reports describe 2010-2024 events), time of day, shape, size, colour, lights, behaviour, altitude, distance offshore, which ships/aircraft, and which sensor (visual, radar, IR). The '2025-26' in the brief is not supported. Any rendering must be labelled ARTIST'S RENDERING. Source: https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (aaro.mil returns 403 to scripts; text checked via mirror https://pub-86f038fb92684457b9683cd2fd44620e.r2.dev/library/docs/doc-aaro-annual-report-fy2025.pdf and quoted by https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/)
+- **Imagery:** `T-035_virginia-coast-event_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28). Reference: https://www.aaro.mil/. SCENE BRIEF (Fact, from the report's only passage on the event): U.S. Navy assets off the coast of Virginia report "approximately 100 airborne UAP and two, likely uncrewed, surface systems"; AARO counts it as the single maritime-domain case and is "actively investigating". UNKNOWN (not in the report): date (reported between June 2, 2024 and May 30, 2025; 35 of that period's reports describe 2010-2024 events), time of day, shape, size, colour, lights, behaviour, altitude, distance offshore, platform, and sensor. CAVEAT: the rendering's night setting and shipboard viewpoint are artistic choices, not reported facts. Source: https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (mirror: https://pub-86f038fb92684457b9683cd2fd44620e.r2.dev/library/docs/doc-aaro-annual-report-fy2025.pdf)
 
 ---
 **Totals: 35 entries. Reported fact: 17. In between: 11. Lore-perceived story: 7.**
@@ -347,7 +347,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Sources:** https://web.ics.purdue.edu/~kdickson/qingutr.html ; https://www.degruyterbrill.com/document/doi/10.1515/9781575068619-009/html
 - **Public & cultural reception:** Reinterpreted by Sitchin as planetary history. **DISPUTED.**
 - **Motive/credibility note (Writer's territory, analysis not fact):** Babylonian royal theology exalting Marduk. The modern reading serves Sitchin's narrative.
-- **Imagery:** `T-037_enuma-elish-k3473.jpg` (Drive: Disclosure/Imagery). License: CC BY-SA 4.0. Credit: Zunkir. Source: https://commons.wikimedia.org/wiki/File:Enuma_Elish_K.3473.jpg. Note: Original artifact (BM K.3473); confirm it contains Tablet VI. MISMATCH (verified 2026-10-28): K.3473 (+Rm.615 +79-7-8,296) is a principal copy of Enuma Elish Tablet III, not VI (King 1902, https://archive.org/details/the-seven-tablets-of-creation.-vol.-1). BM Tablet VI fragments: K.9883, K.13878 (https://www.britishmuseum.org/collection/object/W_K-9883). Recaption as 'Enuma Elish, Tablet III' or replace.
+- **Imagery:** `T-037_enuma-elish-k3473.jpg` (Drive: Disclosure/Imagery). License: CC BY-SA 4.0. Credit: Zunkir. Source: https://commons.wikimedia.org/wiki/File:Enuma_Elish_K.3473.jpg. Note: Tablet III (illustrative). K.3473 is Enuma Elish Tablet III, not VI; no free Commons image of Tablet VI fragments K.9883, K.13878 or BM 55380 found.
 
 ### 38. [T-038] Genesis 2–3, the serpent in Eden (Hebrew Bible)
 - **Tag:** Reported fact (the text) / In between (identifying the serpent as Satan comes from later tradition). Details: A-003.
@@ -378,7 +378,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Tag:** Reported fact. Details: A-007 (cross-reference T-014).
 - **Sources:** https://www.spiegel.de/politik/datum-19-maerz-1973-daeniken-a-b8f18ed3-0002-0001-0000-000042645310 ; https://www.spiegel.de/politik/er-ist-nie-in-den-hoehlen-gewesen-a-9e2665f7-0002-0001-0000-000042645392
 - **Motive/credibility note (Writer's territory, analysis not fact):** Spiegel's investigative motive; this is a press record.
-- **Imagery:** No free image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Der Spiegel issue of 19 Mar 1973 exposing von Däniken (cover not freely licensed). Reference: https://www.spiegel.de/
+- **Imagery:** No image in Disclosure/Imagery. REFERENCE ONLY (copyrighted, not downloaded). ARTIST'S RENDERING NEEDED: Der Spiegel issue of 19 Mar 1973 exposing von Däniken (cover not freely licensed). Reference: https://www.spiegel.de/
 
 ### 43. [T-043] David Icke, *The Biggest Secret*: 1999
 - **Tag:** Lore (the claim) / Reported fact (the publication). Details: A-012.
@@ -390,7 +390,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Tag:** Reported fact. Details: A-013.
 - **Sources:** https://www.politico.com/blogs/media/2013/04/the-craziest-ppp-survey-ever-160705 ; https://www.theatlantic.com/national/2013/04/12-million-americans-believe-lizard-people-run-our-country/316706/
 - **Motive/credibility note (Writer's territory, analysis not fact):** Poll design invites trolling and joke answers, so the 4% may be inflated.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Poll graphic: 4% of US voters believe reptilian elites control society (PPP, Mar 2013). Reference: https://www.publicpolicypolling.com/
+- **Imagery:** `T-044_ppp-reptilian-poll_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28). Reference: https://www.publicpolicypolling.com/.
 
 
 ---
@@ -423,7 +423,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** Josephus and the rabbinic midrash present the serpent as a real, speaking animal driven by jealousy. Pirqe de-Rabbi Eliezer 13 (medieval) has Samael, a heavenly prince, ride and use the serpent. He is not simply identical with it.
 - **Sources:** https://doi.org/10.82308/35086 ; https://jwa.org/encyclopedia/article/eve-midrash-and-aggadah ; http://pages.charlotte.edu/john-reeves/wp-content/uploads/sites/521/2013/04/pirqe-de-rabbi-eliezer-131.pdf ; https://www.sefaria.org/topics/sin-and-punishment-of-the-serpent
 - **Motive/credibility note (Writer's territory, analysis not fact):** Rabbinic exegesis answers theological questions. It is not reportage.
-- **Imagery:** `T-048_demonology-samael.jpg` (Drive: Disclosure/Imagery). License: No restrictions. Credit: Internet Archive Book Images. Source: https://commons.wikimedia.org/wiki/File:Image_from_page_470_of_%22Demonology_and_devil-lore%22_(1879)_(14593263130).jpg. Note: Book illustration (Conway 1879); match to Samael unverified. MISMATCH (verified 2026-10-28): a generic horned-devil tailpiece from p. 470 of Conway 1879 (last page before the index); nothing ties it to Samael. Decorative only.
+- **Imagery:** `T-048_demonology-samael.jpg` (Drive: Disclosure/Imagery). License: No restrictions. Credit: Internet Archive Book Images. Source: https://commons.wikimedia.org/wiki/File:Image_from_page_470_of_%22Demonology_and_devil-lore%22_(1879)_(14593263130).jpg. Note: Decorative, not Samael. Generic devil woodcut, Conway, Demonology and Devil-lore (1879), p.470.
 
 ### 49. [T-049] Ch5. Christian identification of the serpent with Satan (Wisdom 2:24 to Revelation 12:9 and 20:2, "the ancient serpent")
 - **Tag:** Reported fact (the history of interpretation).
@@ -444,7 +444,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** Modern scholars read the serpent as a crafty created animal inside an etiological story, with ancient Near Eastern serpent background. Ancient-astronaut and reptilian writers recast it as an alien "instructor" or reptilian engineer, and Icke builds on serpent-race motifs. **UNCONFIRMED:** no primary fringe text quoting a serpent-as-alien reading was pulled. See OPEN_QUESTIONS.
 - **Sources:** https://bibleinterp.arizona.edu/articles/2015/04/day398028 ; https://scispace.com/pdf/david-icke-s-reptilian-thesis-and-the-development-of-new-age-2l32gc9m6i.pdf
 - **Motive/credibility note (Writer's territory, analysis not fact):** Fringe authors gain from sensational readings.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Split scene: an ancient serpent figure in Eden next to a modern reinterpretation of it as an alien visitor.
+- **Imagery:** `T-051_serpent-readings_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 52. [T-052] Ch9. Billy Meier and the Pleiadians (Switzerland, 1975 onward)
 - **Tag:** Lore (the contact claims) / Reported fact (the movement and its critics). **DISPUTED.**
@@ -474,7 +474,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** The conference agreement kept "only" the records collection, the transfer of records, and review under grounds for postponement. It dropped the independent Review Board, its staff, eminent domain, and controlled disclosure. It added Sec. 1687, which limits funding for unreported UAP special-access programs.
 - **Sources:** https://www.paradigmresearchgroup.org/FY2024_NDAA_UAP_Signed.pdf ; https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/12/Pages-from-FY24-NDAA-Conference-Report-FINAL-2.pdf ; https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/
 - **Motive/credibility note (Writer's territory, analysis not fact):** Contractor and agency lobbying is alleged to have stripped the provisions (UNCONFIRMED).
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Dec 2023: the signed FY2024 NDAA, with the UAP Disclosure Act provisions shown cut from the final text. Reference: https://www.congress.gov/bill/118th-congress/house-bill/2670 Free alternative: first page of Public Law 118-31 (signed Dec 22, 2023; UAP records at Secs. 1841-1843), US government work, https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf
+- **Imagery:** `T-055_plaw-118-31-page1.png` (Drive: Disclosure/Imagery). License: Public domain (US government work). Credit: U.S. Government Publishing Office. Source: https://www.govinfo.gov/app/details/PLAW-118publ31. Note: Stand-in: page 1 of Public Law 118-31 (FY2024 NDAA, signed Dec 22, 2023; UAP provisions Secs 1841-1843), rendered with poppler pdftoppm. FLAG: STAND-IN, not an image of the event.
 
 ### 56. [T-056] Ch42. UAP Disclosure Act of 2025, S.Amdt. 3111 (submitted Jul 29, 2025), left out of the FY2026 NDAA (P.L. 119-60, signed Dec 18, 2025)
 - **Tag:** Reported fact.
@@ -528,14 +528,14 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** **Earth-evolved:** speculation that builds on T-060 and T-061 (the dinosauroid), with no evidence that such beings evolved. **Off-world:** Icke's reptilian extraterrestrials (T-043), building on Sitchin's Anunnaki (T-017) and serpent motifs (T-038, T-046, T-047, T-040). Both are presented as claims. Neither has evidential support in the sources.
 - **Sources:** https://www.scientificamerican.com/blog/tetrapod-zoology/dinosauroids-revisited-revisited/ ; https://www.nationalgeographic.com/science/article/troodon-sapiens-thoughts-on-the-dinosauroid ; off-world sources: see T-043, T-044 (the Icke and PPP entries)
 - **Motive/credibility note (Writer's territory, analysis not fact):** The narrative appeal of both answers is strong. Writers should keep the question open, as the book's frame requires.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Concept split: a dinosaur-descended reptilian survivor of the impact next to an off-world reptilian visitor.
+- **Imagery:** `T-062_reptilian-origin_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 63. [T-063] The Anunna/Anunnaki in Sumerian and Akkadian texts versus Sitchin's reading
 - **Tag:** Reported fact (the texts) / Lore (Sitchin).
 - **Details:** ORACC: Anunna is a collective name for the major gods, who decide fates. The name most likely means "princely offspring", not "those who came from heaven to earth". After the Old Babylonian period it often denotes underworld gods, as opposed to the Igigi. Sitchin made them Nibiru astronauts (T-017, A-006).
 - **Sources:** https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/ ; https://doi.org/10.1002/9781444338386.wbeah24019 ; https://www.ebl.lmu.de/dictionary/Anunnakk%C5%AB%20I
 - **Motive/credibility note (Writer's territory, analysis not fact):** Sitchin's etymology serves his thesis, and the lexical lists contradict it.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Sumerian temple scene: cuneiform tablets naming the Anunna gods, with Sitchin's 1976 book reading alongside.
+- **Imagery:** `T-063_anunnaki-texts_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 64. [T-064] Flood myths: Atrahasis, Gilgamesh Tablet XI, Genesis 6–9. George Smith reads the Flood Tablet (K.3375) on Dec 3, 1872
 - **Tag:** Reported fact (the texts and the discovery).
@@ -550,21 +550,21 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** These come from the official prodigy lists, which were expiated by state ritual. NASA GISS scientist Richard Stothers (2007) treats the lists as largely accurate records, but terse. Livy himself notes the wartime "superstition" in which many prodigies were "too easily credited".
 - **Sources:** http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0152%3Abook%3D21%3Achapter%3D62 ; https://pubs.giss.nasa.gov/docs/2007/2007_Stothers_st02710y.pdf
 - **Motive/credibility note (Writer's territory, analysis not fact):** Wartime anxiety during the Second Punic War raised the rate of reports. Livy flags credulity himself.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Rome, winter 218 BC: citizens see phantom ships gleaming in the sky; at Arpi, 217 BC, round shields appear in the sky.
+- **Imagery:** `T-065_roman-phantom-ships_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 66. [T-066] Pliny: a burning round shield (*clipeus ardens*) crossing the sky from west to east at sunset, 100 BC (Natural History 2.100); "weapons in the sky" at Ameria and Tuder, 104 BC (NH 2.148)
 - **Tag:** In between.
 - **Details:** These are recorded by Pliny and Obsequens. Stothers suggests meteors or auroras for some of them.
 - **Sources:** https://pubs.giss.nasa.gov/docs/2007/2007_Stothers_st02710y.pdf ; https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=2:chapter=34 (Pliny NH book 2, Bostock tr.; UNCONFIRMED chapter mapping)
 - **Motive/credibility note (Writer's territory, analysis not fact):** Compiled secondhand from annals, with an omen-reading purpose.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Roman sky at sunset, 100 BC: a burning round shield streaks west to east, sending sparks.
+- **Imagery:** `T-066_pliny-burning-shield_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 67. [T-067] Anglo-Saxon Chronicle: "fiery dragons" over Northumbria, 793, before the Lindisfarne raid
 - **Tag:** In between (a chronicle omen).
 - **Details:** A genuine medieval entry reporting lightning and "fiery dragons" as omens. It is not a UFO report, though it is cited in UFO literature.
 - **Sources:** https://penelope.uchicago.edu/encyclopaedia_romana/britannia/anglo-saxon/lindisfarne/lindisfarne.html ; https://www.jasoncolavito.com/blog/the-byland-abbey-ufo-sighting-anatomy-of-a-hoax
 - **Motive/credibility note (Writer's territory, analysis not fact):** Monastic chroniclers read disasters as divine portents after the fact.
-- **Imagery:** No free image in Disclosure/Imagery. ARTIST'S RENDERING NEEDED: Northumbrian coast, 793: whirlwinds, lightning, and fiery dragons over the sky before the Viking raid on Lindisfarne.
+- **Imagery:** `T-067_northumbria-fiery-dragons_artists-rendering.png` (Drive: Disclosure/Imagery). FLAG: ARTIST'S RENDERING (generated illustration, not a photograph or contemporary image). Credit: Generated illustration (Grok Bot, 2026-10-28).
 
 ### 68. [T-068] The "Byland Abbey silver disc, 1290": a modern hoax that began with a 1953 letter to *The Times*
 - **Tag:** Lore (a confirmed hoax).
@@ -585,7 +585,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** Bill Bequette's June 25 East Oregonian/AP story says "saucer-like objects". "Flying saucer" appears by June 27 (United Press and others). Arnold later said he described their motion, not their shape. **DISPUTED.**
 - **Sources:** https://eastoregonian.com/2017/06/16/the-sighting/ ; https://www.wordorigins.org/big-list-entries/flying-saucer ; https://www.nicap.org/reports/arnold_1947a.htm
 - **Motive/credibility note (Writer's territory, analysis not fact):** Headline economy. Arnold's later reframing may be self-justifying.
-- **Imagery:** `T-070_flying-saucer-irish-times-1947.png` (Drive: Disclosure/Imagery). License: CC0. Credit: Irish Times, 1947. Source: https://commons.wikimedia.org/wiki/File:Flying_Saucer_article_in_July_9,_1947_Irish_Times.png. Note: Contemporary press (Irish Times, 9 Jul 1947); not the June 25-27 first-use articles. DATE MISMATCH: the image is the Irish Times of 9 Jul 1947 (Roswell coverage), not the June 25-27 first use. Free alternative: Chicago Sun, 26 Jun 1947, p. 2 headline (PD-US-no notice), https://commons.wikimedia.org/wiki/File:Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg
+- **Imagery:** `T-070_chicago-sun-flying-saucer-1947.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: UPI; 1947 June 26 edition of Chicago Sun (Chicago Public Library microfilm). Source: https://commons.wikimedia.org/wiki/File:Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg. Note: Contemporary press (Chicago Sun, 26 Jun 1947, "Supersonic Flying Saucers Sighted by Idaho Pilot"); license and credit from Commons API extmetadata.
 
 ### 71. [T-071] The Petrozavodsk phenomenon (USSR): Sept 20, 1977, leading to the state Setka program (1978 to about 1990)
 - **Tag:** Reported fact (the event and the program) / In between (the cause).
