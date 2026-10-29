@@ -151,3 +151,45 @@
 - A-013: Polling: belief in reptilian elites (2013)
 
 *Next free: A-014*
+
+## AO — ARYAN_OCCULT.md
+- AO-001: Bulwer-Lytton, *The Coming Race* (1871): Vril as fiction
+- AO-002: Thule Society dedicated in Munich (Sebottendorf, Aug 1918)
+- AO-003: Inflated Thule membership lists (Bronder 1964), debunked
+- AO-004: Ahnenerbe founded Jul 1, 1935 (Himmler, Wirth)
+- AO-005: Wirth's Atlantis/Nordic theory; Hörbiger's World Ice Theory
+- AO-006: Schäfer's Tibet expedition (1938–39)
+- AO-007: Schwabenland Antarctic expedition (Ritscher, 1938–39), whaling and territory
+- AO-008: Willy Ley's "Truth Society" (1947)
+- AO-009: Dietrich Eckart: life and death (Dec 26, 1923)
+- AO-010: Eckart as Hitler's mentor; *Mein Kampf* dedication
+- AO-011: Eckart and Thule: guest, not member
+- AO-012: "Follow Hitler, he will dance" quote (Lore; Brennan 1974)
+- AO-013: Pauwels & Bergier, *Le Matin des magiciens* (1960)
+- AO-014: Vril/Haunebu saucers (Ratthofer & Ettl, c.1989–92)
+- AO-015: Nazi Antarctic base myth (Zündel 1974)
+- AO-016: Landig's Vienna circle and the Black Sun
+- AO-017: Miguel Serrano's Esoteric Hitlerism
+- AO-018: Goodrick-Clarke vs Kurlander
+- AO-019: 1950s contactees and the blond Space Brothers
+- AO-020: When "Nordic" entered ufology (gap)
+- AO-021: Reptilian lineage: Howard 1929 → Doreal → Lacerta → Icke
+- AO-022: Barkun's antisemitism critique
+
+*Next free: AO-023*
+
+## MX — MYTH_CROSSREF.md
+- MX-001: Poetic and Prose Eddas; Snorri's euhemerism
+- MX-002: *Ancient Aliens* "The Viking Gods" (2013): Norse gods as aliens
+- MX-003: Von Däniken/Sitchin on Asgard (gap)
+- MX-004: Nordic aliens ↔ Norse gods parallel (gap)
+- MX-005: Talos in the *Argonautica* and vase paintings
+- MX-006: Talos as a robot (von Däniken c.1999, Childress 2000) vs Cook and Mayor
+- MX-007: Prometheus, Pandora (Mayor); alien readings a gap
+- MX-008: Lóng in oracle bones, *Erya*, *Shuowen*, *Shanhaijing*
+- MX-009: Hausdorf, *The Chinese Roswell* (1998), dragons and Dropa
+- MX-010: Utsuro-bune (1803): texts, Yanagita, Tanaka
+- MX-011: Xu Fu in the *Shiji*; Japan legend
+- MX-012: Kaguya-hime; Happy Science alien reading
+
+*Next free: MX-013*
