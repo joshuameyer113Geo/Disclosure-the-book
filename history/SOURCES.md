@@ -552,3 +552,15 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - MX-019: S-0343, S-0344, S-0345, S-0346
 - MX-020: S-0343
 - MX-021: S-0347, S-0348, S-0349, S-0350, S-0351
+
+## AO-/MX- sources, Dropa batch MX-022 (added 2026-10-28)
+
+- **S-0352** https://badarchaeology.wordpress.com/2011/10/16/why-are-the-dropa-stones-the-most-searched-for-subject-on-bad-archaeology/ — supports MX-022
+- **S-0353** https://ufologie.patrickgross.org/htm/dropasagamon.htm — supports MX-022
+- **S-0354** https://ufologie.patrickgross.org/htm/dropas.htm — supports MX-022
+- **S-0355** https://archive.org/details/manstarscontactc0000luna/ — supports MX-022
+
+## Reverse index: MX-022 → sources
+
+- MX-022: S-0316, S-0352, S-0353, S-0354, S-0355, S-0315
+- **S-0356** https://www.openminds.tv/pdf/apro/apro_nov_1967.pdf — supports MX-019 (APRO Bulletin Nov–Dec 1967)

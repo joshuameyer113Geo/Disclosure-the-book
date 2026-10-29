@@ -203,5 +203,6 @@
 - MX-019: Itajubá cat-faced case, NAA A13693 Case 848
 - MX-020: Quarouble as Case 144 (pairing contested)
 - MX-021: Abduction psychology citations (Spanos, Clancy, McNally, Hufford)
+- MX-022: Dropa stones as a 1960s hoax (Wegemann 1962; Zaitsev; Hausdorf)
 
-*Next free: MX-022*
+*Next free: MX-023*
