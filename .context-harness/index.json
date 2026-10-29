@@ -1,0 +1,291 @@
+{
+  "schema": 2,
+  "updated_at": "2026-10-29",
+  "source_hash": "36ca3808f3dd946a91bca884aff6d8fb4618e4c6f52abc480f8b4f5f545129b2",
+  "sources": [
+    {
+      "path": "CONTEXT.md",
+      "sha256": "0a8449632ba4fee71b11c87e1cbf99c6d912486c72d70c1eb91734a3c66a09c5",
+      "lines": 48
+    },
+    {
+      "path": "NOW.md",
+      "sha256": "fb2a7d2eb31d9535a610209376e2faea8a59071fbd2b52f8a982e461e04d3492",
+      "lines": 14
+    }
+  ],
+  "cards": [
+    {
+      "id": "ctx-context-project",
+      "title": "CONTEXT.md: Project",
+      "summary": "Disclosure: a realistic documentary history of the UFO phenomenon, from ancient texts to the October 2026 disclosure record, then labeled projections. Plain markdown book; no build.",
+      "source": "CONTEXT.md#project",
+      "source_path": "CONTEXT.md",
+      "kind": "project",
+      "scope": "project",
+      "importance": 0.65,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 46,
+      "tags": [
+        "context",
+        "project"
+      ],
+      "read_when": [
+        "working on project"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-project.md",
+      "chunk_path": "",
+      "content_sha256": "e01bccd3a6d20a80e87b6af5df9f96fa5e0933899de9d264311f46b1ba43f70d",
+      "key_facts": []
+    },
+    {
+      "id": "ctx-context-structure",
+      "title": "CONTEXT.md: Structure",
+      "summary": "outline/OUTLINE.md: 45-chapter lineout (purpose + sources per chapter); source of truth for order",
+      "source": "CONTEXT.md#structure",
+      "source_path": "CONTEXT.md",
+      "kind": "context",
+      "scope": "project",
+      "importance": 0.65,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 125,
+      "tags": [
+        "context",
+        "structure"
+      ],
+      "read_when": [
+        "working on structure"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-structure.md",
+      "chunk_path": "",
+      "content_sha256": "f6312bd0510cd2c14a76ec392e3f465f1daad0c3ee1ffb37714f0708135e6578",
+      "key_facts": [
+        "manuscript/part-1..part-5/chNN.md: chapter stubs (lineout only, no prose yet)",
+        "history/TIMELINE.md [T-NNN], history/MODERNCASESFACTS.md [MC-NNN]: historian claim files (IDs used in footnotes)",
+        "research/ANCIENTTIMELINE.md, research/MODERNCASES.md: research briefs",
+        "rules/STORYRULES.md: canon rules + footnote convention",
+        "QUESTIONS-LOG.md, notes/: questions, reuse review, publishing plan"
+      ]
+    },
+    {
+      "id": "ctx-context-operating-constraints",
+      "title": "CONTEXT.md: Operating Constraints",
+      "summary": "Real people keep real names; real reported events and established lore only; nothing invented; symbolism only when grounded in cited research.",
+      "source": "CONTEXT.md#operating-constraints",
+      "source_path": "CONTEXT.md",
+      "kind": "constraints",
+      "scope": "project",
+      "importance": 0.9,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 164,
+      "tags": [
+        "context",
+        "operating-constraints",
+        "constraints"
+      ],
+      "read_when": [
+        "before choosing an implementation or changing project behavior"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-operating-constraints.md",
+      "chunk_path": "",
+      "content_sha256": "345c974c236a2ef5303b74e9eaa461d688937a66a4c3b050c4c9cfd352e7d853",
+      "key_facts": [
+        "Nordic and reptilian beings are modern lore: always name the originators (contactee era / George Adamski; David Icke) and never present them as ancient fact.",
+        "Projection chapters (Part V) must be labeled PROJECTION and grounded in the Part IV record.",
+        "Footnote only claims that need it, as [^T-NNN]/[^MC-NNN] keyed to historian IDs; no historian entry = research gap, not a footnote.",
+        "research/MODERNCASES.md may be under edit by another worker: coordinate before touching; pull --rebase before pushing."
+      ]
+    },
+    {
+      "id": "ctx-context-workflow",
+      "title": "CONTEXT.md: Workflow",
+      "summary": "Setup: none (plain markdown)",
+      "source": "CONTEXT.md#workflow",
+      "source_path": "CONTEXT.md",
+      "kind": "workflow",
+      "scope": "project",
+      "importance": 0.9,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 45,
+      "tags": [
+        "context",
+        "workflow",
+        "verification"
+      ],
+      "read_when": [
+        "running, testing, linting, deploying, or verifying changes"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-workflow.md",
+      "chunk_path": "",
+      "content_sha256": "9e96a0a82234a679c6dbd179ff0ed902728dd3f64ee582e5f8cfce9049e3e553",
+      "key_facts": [
+        "Run: none",
+        "Verify: node scripts/context-index.js check",
+        "Every chapter stub lists sources; every footnote ID exists in history/."
+      ]
+    },
+    {
+      "id": "ctx-context-language",
+      "title": "CONTEXT.md: Language",
+      "summary": "Claim ID: historian entry ID, T-NNN (history/TIMELINE.md) or MC-NNN (history/MODERNCASESFACTS.md). Avoid: raw URL as footnote key.",
+      "source": "CONTEXT.md#language",
+      "source_path": "CONTEXT.md",
+      "kind": "language",
+      "scope": "project",
+      "importance": 0.82,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 52,
+      "tags": [
+        "context",
+        "language"
+      ],
+      "read_when": [
+        "using canonical project terms or resolving naming ambiguity"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-language.md",
+      "chunk_path": "",
+      "content_sha256": "4d78eef3f9c7b0956b879a84fe3018a67afbc7f0b4a157acc0977ebc137ac17b",
+      "key_facts": [
+        "Lineout: chapter title + one-line purpose + sources, no prose."
+      ]
+    },
+    {
+      "id": "ctx-context-relationships",
+      "title": "CONTEXT.md: Relationships",
+      "summary": "OUTLINE.md order == manuscript chNN numbering.",
+      "source": "CONTEXT.md#relationships",
+      "source_path": "CONTEXT.md",
+      "kind": "invariant",
+      "scope": "project",
+      "importance": 0.82,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 12,
+      "tags": [
+        "context",
+        "relationships",
+        "invariant"
+      ],
+      "read_when": [
+        "changing architecture or domain relationships"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-relationships.md",
+      "chunk_path": "",
+      "content_sha256": "a884ac2a63042d4a7909dac681373df7108702e329ef2ab1223543969d693b95",
+      "key_facts": []
+    },
+    {
+      "id": "ctx-context-book-state",
+      "title": "CONTEXT.md: Book State",
+      "summary": "Chapters: 45 (Part I ancient history 9 = 20%; II modern/military 17; III sociology/culture 6; IV government arc 9; V projections 4). All status: lineout, not drafted.",
+      "source": "CONTEXT.md#book-state",
+      "source_path": "CONTEXT.md",
+      "kind": "context",
+      "scope": "project",
+      "importance": 0.65,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 163,
+      "tags": [
+        "context",
+        "book-state"
+      ],
+      "read_when": [
+        "working on book state"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-book-state.md",
+      "chunk_path": "",
+      "content_sha256": "f80455df01f2f54ddf6aec4ad3ecaf64cf948f7ad5fbfad76c5f68817a9a7c02",
+      "key_facts": [
+        "Decisions: 2026-10-28 documentary (not dramatization); chronological order ancient to present then projections; history ~20%; footnote convention adopted.",
+        "Real people registry: see OUTLINE.md chapter sources (Arnold, Marcel, Mantell, Betty & Barney Hill, Zamora, Salas, Walton, Halt, Lazar, Fravor, Dietrich,...",
+        "Claims-to-sources: chapter Sources lines in OUTLINE.md point to T-/MC- entries."
+      ]
+    },
+    {
+      "id": "ctx-context-flagged-ambiguities",
+      "title": "CONTEXT.md: Flagged Ambiguities",
+      "summary": "Research gaps: serpent-reading history (ch5); Adamski/Meier/Icke origins (ch9); UAP Disclosure Act text/status (ch42); Galileo Project (ch44); a source for the physical gray description (ch16).",
+      "source": "CONTEXT.md#flagged-ambiguities",
+      "source_path": "CONTEXT.md",
+      "kind": "context",
+      "scope": "project",
+      "importance": 0.65,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 76,
+      "tags": [
+        "context",
+        "flagged-ambiguities"
+      ],
+      "read_when": [
+        "working on flagged ambiguities"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-flagged-ambiguities.md",
+      "chunk_path": "",
+      "content_sha256": "ab3611ddfee66af0fb690cd2b7fe78c91c419c7efac3301f859b19b5d3c5f59b",
+      "key_facts": [
+        "Open questions: who attaches timeline imagery; whether old dramatization rules apply (QUESTIONS-LOG.md)."
+      ]
+    },
+    {
+      "id": "ctx-context-learned-patterns",
+      "title": "CONTEXT.md: Learned Patterns",
+      "summary": "When citing a case, use the historian file IDs rather than raw URLs in prose, because IDs survive file edits.",
+      "source": "CONTEXT.md#learned-patterns",
+      "source_path": "CONTEXT.md",
+      "kind": "lesson",
+      "scope": "project",
+      "importance": 0.78,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 28,
+      "tags": [
+        "context",
+        "learned-patterns",
+        "lesson"
+      ],
+      "read_when": [
+        "avoiding a repeated failure or applying a durable correction"
+      ],
+      "card_path": ".context-harness/cards/ctx-context-learned-patterns.md",
+      "chunk_path": "",
+      "content_sha256": "025eabb2018b4ae55735a311d5f067b47f162bdd071363f35e40c2d3fefdf6d3",
+      "key_facts": []
+    },
+    {
+      "id": "ctx-now-now",
+      "title": "NOW.md: Now",
+      "summary": "Chapter lineout complete (45 chapters); awaiting historian sources for flagged research gaps before drafting.",
+      "source": "NOW.md#now",
+      "source_path": "NOW.md",
+      "kind": "resume",
+      "scope": "task",
+      "importance": 0.95,
+      "confidence": "confirmed",
+      "recency": "2026-10-29",
+      "tokens_est": 125,
+      "tags": [
+        "now",
+        "resume"
+      ],
+      "read_when": [
+        "recovering current focus, blockers, or the immediate next step"
+      ],
+      "card_path": ".context-harness/cards/ctx-now-now.md",
+      "chunk_path": "",
+      "content_sha256": "fb2a7d2eb31d9535a610209376e2faea8a59071fbd2b52f8a982e461e04d3492",
+      "key_facts": [
+        "Research gaps listed in CONTEXT.md Flagged Ambiguities.",
+        "Historian fills gaps (ch5, ch9, ch16 gray description, ch42, ch44); then draft Part I.",
+        "Last modified: 2026-10-28T20:42:52-07:00",
+        "Files touched: outline/OUTLINE.md, manuscript/, rules/STORYRULES.md, AGENTS.md, CONTEXT.md, NOW.md, scripts/"
+      ]
+    }
+  ]
+}
