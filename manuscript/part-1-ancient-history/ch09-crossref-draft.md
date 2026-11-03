@@ -3,7 +3,7 @@ chapter: 9
 title: "Inventing Ancient Aliens"
 part: I
 status: draft
-claim_ids: [T-041, T-043, T-044, T-052, T-053, A-011, A-012, A-013, AO-001, AO-002, AO-003, AO-004, AO-005, AO-006, AO-007, AO-008, AO-009, AO-010, AO-011, AO-012, AO-013, AO-014, AO-015, AO-016, AO-017, AO-018, AO-019, AO-020, AO-021, AO-022, MX-001, MX-002, MX-003, MX-004, MX-005, MX-006, MX-007, MX-008, MX-009, MX-010, MX-011, MX-012, AO-023, AO-024, AO-025, MX-013, MX-014, MX-015, MX-016, MX-017, MX-018, MX-019, MX-020, MX-021]
+claim_ids: [T-041, T-043, T-044, T-052, T-053, A-011, A-012, A-013, AO-001, AO-002, AO-003, AO-004, AO-005, AO-006, AO-007, AO-008, AO-009, AO-010, AO-011, AO-012, AO-013, AO-014, AO-015, AO-016, AO-017, AO-018, AO-019, AO-020, AO-021, AO-022, MX-001, MX-002, MX-003, MX-004, MX-005, MX-006, MX-007, MX-008, MX-009, MX-010, MX-011, MX-012, AO-023, AO-024, AO-025, MX-013, MX-014, MX-015, MX-016, MX-017, MX-018, MX-019, MX-020, MX-021, MX-022]
 ---
 
 # Chapter 9: Inventing Ancient Aliens
@@ -40,7 +40,7 @@ The habit of reading old records as visitations has a traceable start. In 1919, 
 
 **Primary sources.** Sima Qian's *Records of the Grand Historian* (*Shiji*, 109–91 BCE) describes the culture hero Fu Xi as having "a serpent's body, a man's head." It says that "there being a dragon omen, he enrolled dragons among his officers," and that he drew the eight trigrams.[^MX-015] In Chinese tradition the dragon is a creature of water, weather, and imperial authority. It is not a vehicle.[^MX-008]
 
-**Who drew the UFO parallel.** Colavito traces a 2012 *Ancient Aliens* claim, that ancient Chinese kings received texts from beings "down from the sky," to the Fu Xi material. He finds no such sky-visitor story in the early sources. In those texts the early rulers act on earth, with only symbolic references to Heaven.[^MX-015] The best-known "Chinese alien" artifact, the Dropa stones, is a hoax of the 1960s with no verifiable excavation or museum record.[^dropa] **Open question:** the first printed reading of Chinese dragons as craft. Drake's 1968 volume on the "Ancient East" is a likely candidate, but nobody has checked it page by page. The earliest dated dragons-as-craft claim Historian has logged is Hartwig Hausdorf's *The Chinese Roswell* (1998); whether anyone made it earlier remains open.[^MX-009]
+**Who drew the UFO parallel.** Colavito traces a 2012 *Ancient Aliens* claim, that ancient Chinese kings received texts from beings "down from the sky," to the Fu Xi material. He finds no such sky-visitor story in the early sources. In those texts the early rulers act on earth, with only symbolic references to Heaven.[^MX-015] The best-known "Chinese alien" artifact, the Dropa stones, traces back no further than July 1962. The story first appeared in the German magazine *Das Vegetarische Universum*, under the name "Reinhardt Wegemann," a writer no one has been able to trace. No record of the 1937 expedition, the scholar said to have translated the discs, or the discs themselves has been found. Later retellings added details: David Agamon's *Sungods in Exile* (1978) added a Dropa people from Sirius, and its author later called that book a hoax.[^MX-022] Who wrote the 1962 article, and why, remains unknown. **Open question:** the first printed reading of Chinese dragons as craft. Drake's 1968 volume on the "Ancient East" is a likely candidate, but nobody has checked it page by page. The earliest dated dragons-as-craft claim Historian has logged is Hartwig Hausdorf's *The Chinese Roswell* (1998); whether anyone made it earlier remains open.[^MX-009]
 
 ## Shore arrivals: the Utsuro-bune and Xu Fu
 
@@ -76,7 +76,7 @@ Dietrich Eckart was a poet and the publisher of the antisemitic weekly *Auf gut 
 
 Some reports fit none of the recurring types: not grays, not Nordics, not reptilians. They also did not repeat.
 
-**Cat-faced occupants, Itajubá, Brazil (June 1967).** Sources disagree on the date: June 7, 1967 in one account, June 5, 1967 in another. An ambulance driver, named as Geraldo Baqueiro (also spelled Barqueira), reportedly said a luminous, transparent object stalled his vehicle and that he could see occupants with cat-like faces inside. The case reached Jacques Vallée's landing catalogue. In a minute dated May 27, 1971, O. H. Turner of Australia's Joint Intelligence Organisation listed it as Case 848 in a secret paper. That paper is now open at the National Archives of Australia (series A13693, item 30030606).[^MX-019] The Australian file is authentic. The encounter is not verified. It is one witness, and the account comes secondhand through civilian UFO literature. The word "cat-like" records his impression, not an anatomy.
+**Cat-faced occupants, Brazil (June 1967).** This case is often called the "Itajubá" case, but the earliest account found so far does not put it there. The APRO Bulletin (Nov–Dec 1967) reports that on June 7, 1967, at 1:30 a.m., Geraldo Barqueira (spelled Baqueiro elsewhere) was driving his station wagon up the Serra da Mantiqueira when a blinking light stalled his engine. Under hypnosis he described a round object about 5 m across, with "five faces which resembled those of cats" at its windows. The same Bulletin carries a separate Itajubá report, dated Sept 24, 1967, of three spherical objects and no occupants. How the two became attached is not known. A Brazilian account gives the date as June 5, which is contested. The case reached Jacques Vallée's landing catalogue. In a minute dated May 27, 1971, O. H. Turner of Australia's Joint Intelligence Organisation listed it as Case 848 in a secret paper. That paper is now open at the National Archives of Australia (series A13693, item 30030606).[^MX-019] The Australian file is authentic. The encounter is not verified. It is one witness, recalled under hypnosis, and the account comes through civilian UFO literature. The word "cat-like" records his impression, not an anatomy.
 
 **Quarouble, France (Sept 10, 1954).** Marius Dewilde reported two short, bulky figures in what looked like diving suits near an object on railway tracks, and a light that left him unable to move. The same Australian file lists a Case 144 from France and separately gives a Dewilde account, but the pairing of Case 144 with Quarouble is **contested**: likely, not proven.[^MX-020] Small humanoids later became common, so this case is better described as an early example of a type than as an outlier.
 
@@ -142,17 +142,16 @@ One easy explanation for all of this is that the witnesses are ill. The record d
 [^MX-019]: history/MYTH_CROSSREF.md [MX-019], Itajubá "cat-faced" occupants (Brazil, 1967) and NAA A13693 Case 848. **Fact (the file); the encounter is Lore, reported by Geraldo Baqueiro, 1967**
 [^MX-020]: history/MYTH_CROSSREF.md [MX-020], Quarouble (France, 1954) as Case 144 in the same file. **Contested (the pairing)**
 [^MX-021]: history/MYTH_CROSSREF.md [MX-021], Psychology of abduction reports: citations confirmed. **Fact**
-[^dropa]: [unverified, no ID yet] https://badarchaeology.wordpress.com/2011/10/16/why-are-the-dropa-stones-the-most-searched-for-subject-on-bad-archaeology/ ; https://en.wikipedia.org/wiki/Dropa_stones
+[^MX-022]: history/MYTH_CROSSREF.md [MX-022], The Dropa (Dzopa) stones as a 1960s hoax. **Fact (the publication trail); the stones are Lore, first printed under the name "Reinhardt Wegemann," *Das Vegetarische Universum*, July 1962**
 
 ---
 
 ## For Historian: claims needing verification
 
-Resolved with IDs: Fort (MX-013), Drake bibliography (MX-014), Colavito (MX-015), Kuki catalogue (MX-016), Tanaka/Kamisu count (MX-017), *Yichu liutie* dating (MX-018), Itajubá/Case 848 (MX-019), Quarouble/Case 144 (MX-020, contested), psychology citations (MX-021), Ravenscroft (AO-023), Germanenorden/Thule (AO-024), Summerhayes & Beeching (AO-025).
+Resolved with IDs: Fort (MX-013), Drake bibliography (MX-014), Colavito (MX-015), Kuki catalogue (MX-016), Tanaka/Kamisu count (MX-017), *Yichu liutie* dating (MX-018), cat-faced case/Case 848 (MX-019, APRO text found; not placed at Itajubá), Dropa stones (MX-022), Quarouble/Case 144 (MX-020, contested), psychology citations (MX-021), Ravenscroft (AO-023), Germanenorden/Thule (AO-024), Summerhayes & Beeching (AO-025).
 
 Still open:
-1. The Dropa stones as a 1960s hoax: no ID yet.
-2. Drake's book contents (not read): does *Gods and Spacemen in the Ancient West* treat the Norse gods, and does the Greece and Rome volume read Prometheus or the Olympians as aliens?
-3. Whether Ravenscroft's *Spear of Destiny* (1972) contains the Eckart "dance" quote.
-4. Itajubá: the June 7 vs June 5, 1967 date conflict; the APRO Bulletin text; viewing the NAA images directly.
-5. Open questions (no source found; not stated as fact): the first Norse-UFO parallel; any author linking the Norse gods to "Nordic" aliens; the earliest use of "Nordic" for aliens; a named alien reading of Prometheus or the Olympians; who first read the Utsuro-bune as a UFO; the first dragons-as-craft reading before 1998; any UFO reading of Xu Fu; non-recurring outlier types beyond the feline case.
+1. Drake's book contents (not read): does *Gods and Spacemen in the Ancient West* treat the Norse gods, and does the Greece and Rome volume read Prometheus or the Olympians as aliens?
+2. Whether Ravenscroft's *Spear of Destiny* (1972) contains the Eckart "dance" quote.
+3. The cat-faced case: how it came to be labeled "Itajubá"; confirming the June 5 date's source; viewing the NAA images directly.
+4. Open questions (no source found; not stated as fact): the first Norse-UFO parallel; any author linking the Norse gods to "Nordic" aliens; the earliest use of "Nordic" for aliens; a named alien reading of Prometheus or the Olympians; who first read the Utsuro-bune as a UFO; the first dragons-as-craft reading before 1998; any UFO reading of Xu Fu; non-recurring outlier types beyond the feline case.
