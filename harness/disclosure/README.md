@@ -1,6 +1,6 @@
 # Disclosure adaptation of Bookwright
 
-**Standing rule (Josh, Nov 3, 2026): every conversation begins by pulling this repo and reading `harness/disclosure/WORKLOG.md`, before doing anything else, so prior work and decisions are loaded first.**
+**Standing rule (Josh, Nov 3, 2026): this harness and its work log are for Eden Historian and Eden Writer only; other bots don't use or update them. Every Eden Historian or Eden Writer conversation begins by pulling this repo and reading `harness/disclosure/WORKLOG.md`, before doing anything else, so prior work and decisions are loaded first.**
 
 Upstream harness: https://github.com/AdrianMastronardi/bookwright (MIT, v0.2.0). Clone it separately. This folder holds only the project-specific additions, so it is not a nested repo.
 
@@ -9,4 +9,4 @@ The Historian fills `history/` (the bibliography and outline phases). Eden Write
 - `skills/historian-research`, `skills/claim-ids`, `skills/writer-handoff`
 - `tools/check_ids.py`: checks for duplicate IDs and unresolved manuscript citations.
 - `history/build_registers.py`: regenerates SOURCES.* and CLAIMS_REGISTER.*.
-- `WORKLOG.md`: append-only session notes. Every bot reads it at the start of a session and appends a dated entry (done, decisions, open items, next free IDs) at the end, so the work carries over between conversations.
+- `WORKLOG.md`: append-only session notes. Eden Historian and Eden Writer only: each reads it at the start of a session and appends a dated entry (done, decisions, open items, next free IDs) at the end, so the work carries over between conversations.

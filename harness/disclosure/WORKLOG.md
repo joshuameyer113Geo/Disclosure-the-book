@@ -1,5 +1,5 @@
 # Disclosure work log (session notes)
-Append-only memory carried between sessions. **Read this first at the start of every session; append one entry at the end.** Newest entries go at the bottom. Never edit or delete a past entry; add a correction as a new entry instead.
+Append-only memory carried between sessions, **for Eden Historian and Eden Writer only** (other bots don't read or write it). **Read this first at the start of every session; append one entry at the end.** Newest entries go at the bottom. Never edit or delete a past entry; add a correction as a new entry instead.
 
 Entry format:
 ```
@@ -18,3 +18,6 @@ Entry format:
 
 ## 2026-11-03 23:55 PT, Eden Historian
 - Decisions: standing rule from Josh. Every conversation starts by reading this log first. It's now in the README and the historian-research and writer-handoff skills.
+
+## 2026-11-03 23:58 PT, Eden Historian
+- Decisions: Josh restricted the harness and this log to Eden Historian and Eden Writer only. The README, both skills, and this header now say so.

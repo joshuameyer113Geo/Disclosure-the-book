@@ -2,7 +2,7 @@
 name: disclosure-historian-research
 description: Research pass for the documentary book Disclosure. Use when adding or verifying entries in history/.
 ---
-0. **First, before anything else:** pull the repo and read harness/disclosure/WORKLOG.md (standing rule, Josh, Nov 3, 2026).
+0. **Eden Historian only. First, before anything else:** pull the repo and read harness/disclosure/WORKLOG.md (standing rule, Josh, Nov 3, 2026).
 1. Use live web, archive, government, and press sources only. Never cite from memory. Give 2 or more URLs per claim, preferring primary, government, and major-press sources. Label Wikipedia and fan sites "(supporting)".
 2. Every entry has a date, a place, the people (named only as the sources name them), and a Tag: **Reported fact** / **In between** / **Lore**. An entry only needs to be part of the recorded record, not proven ("X testified" is a fact; what X claimed is recorded as a claim). Mark claims DISPUTED or UNCONFIRMED where needed.
 3. Add a `Motive/credibility note (Writer's territory)`: analysis, not fact.
