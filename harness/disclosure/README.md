@@ -1,4 +1,7 @@
 # Disclosure adaptation of Bookwright
+
+**Standing rule (Josh, Nov 3, 2026): every conversation begins by pulling this repo and reading `harness/disclosure/WORKLOG.md`, before doing anything else, so prior work and decisions are loaded first.**
+
 Upstream harness: https://github.com/AdrianMastronardi/bookwright (MIT, v0.2.0). Clone it separately. This folder holds only the project-specific additions, so it is not a nested repo.
 
 The Historian fills `history/` (the bibliography and outline phases). Eden Writer drafts from it (writing phase, roles 1–3), citing `[^T-xxx]` / `[^MC-xxx]` claim IDs, which are backed by the permanent S- source IDs in `history/SOURCES.csv`.

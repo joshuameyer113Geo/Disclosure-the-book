@@ -15,3 +15,6 @@ Entry format:
 - Decisions: Josh approved the public repo Disclosure-the-book. Drive is the always-on copy (Disclosure folder with History, Manuscript, Imagery and Whiteboard subfolders). Clean slate, with no old Eden material. Reptilian origin stays an open question.
 - Open: Josh to decide whether to delete the older PDF/PNG sets in Drive History. FigJam images are waiting on the Figma plan limit. Recheck T-057 (the UAP Disclosure Act) after the Nov 3 midterms. history/build_registers.py must keep S- IDs stable before it's re-run. Do git work only in your own fresh clone.
 - Next free IDs: T-077, MC-030, A-014, AO-026, MX-023, S-0357.
+
+## 2026-11-03 23:55 PT, Eden Historian
+- Decisions: standing rule from Josh. Every conversation starts by reading this log first. It's now in the README and the historian-research and writer-handoff skills.
