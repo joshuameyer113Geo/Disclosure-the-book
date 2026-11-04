@@ -7,3 +7,4 @@ description: Research pass for the documentary book Disclosure. Use when adding 
 3. Add a `Motive/credibility note (Writer's territory)`: analysis, not fact.
 4. **Source-log rule: every new claim must add or reuse an S- entry in history/SOURCES.csv** (S-NNNN IDs are permanent and append-only; reuse the existing S- ID for the same URL). Then regenerate SOURCES.md and CLAIMS_REGISTER.* with build_registers.py, keeping existing S- numbers stable. Record the date consulted and the verification status.
 5. Log gaps in OPEN_QUESTIONS.md. Never delete a claim; mark it RETIRED instead.
+- Session memory: read harness/disclosure/WORKLOG.md before starting, and append a dated entry when you finish.

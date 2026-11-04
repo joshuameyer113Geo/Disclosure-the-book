@@ -6,3 +6,4 @@ The Historian fills `history/` (the bibliography and outline phases). Eden Write
 - `skills/historian-research`, `skills/claim-ids`, `skills/writer-handoff`
 - `tools/check_ids.py`: checks for duplicate IDs and unresolved manuscript citations.
 - `history/build_registers.py`: regenerates SOURCES.* and CLAIMS_REGISTER.*.
+- `WORKLOG.md`: append-only session notes. Every bot reads it at the start of a session and appends a dated entry (done, decisions, open items, next free IDs) at the end, so the work carries over between conversations.
