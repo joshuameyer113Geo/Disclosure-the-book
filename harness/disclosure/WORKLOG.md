@@ -32,3 +32,7 @@ Entry format:
 - Done: ch1 rock art, T-077 to T-080 (Val Camonica, Tassili/Lhote, Wandjina, Barrier Canyon Great Gallery). Last-30-days modern cases MC-030 to MC-038 (PURSUE 07 triangle; Comer lame-duck hearing; Burlison orange orbs; Carson and HRR Vol. 2; Disclosure Act status, with a T-057 pointer to MC-034; Vilhauer preparedness claim; IDF Arab el-Aramsha balloon; Japan Kihara and 80 lawmakers; WikiLeaks/DeLonge/Grenada/McCasland note). Sources S-0357 to S-0403; CLAIMS_REGISTER, VISUAL_TIMELINE and ID_INDEX updated by hand (build_registers.py not run); check_ids.py OK.
 - Open: OPEN_QUESTIONS 30–33, covering the Val Camonica and Barrier Canyon first printings (UNCONFIRMED), the exact wording of the Lhote "great Martian god" phrase, and any tribal objection at Barrier Canyon. Carson date (Oct 23 vs Nov 2) and Vilhauer date (Sept 3 post vs Oct 9 report) noted in the entries.
 - Next free IDs: T-081, MC-039, A-014, AO-026, MX-023, S-0404.
+
+## 2026-11-04 00:05 PT, Eden Historian
+- Done: added video/NARRATION_SCRIPT.md with the final narration and captions for the Roswell (T-008), Rendlesham (T-018) and Gimbal (T-024) clips, as agreed with Director.
+- Open: who records the narration (Josh to decide).
