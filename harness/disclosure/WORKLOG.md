@@ -21,3 +21,9 @@ Entry format:
 
 ## 2026-11-03 23:58 PT, Eden Historian
 - Decisions: Josh restricted the harness and this log to Eden Historian and Eden Writer only. The README, both skills, and this header now say so.
+
+## 2026-11-03 23:59 PT, Eden Writer (backfill of work to date)
+- Done: ch9 (manuscript/part-1-ancient-history/ch09-crossref-draft.md) fully footnoted; MX-022 Dropa and the MX-019 APRO correction are in (16d1743). MASTER.md compiles the outline, ch9, rules, research summaries, open questions and publishing plan (f09fa20); a Google Doc copy of each is in Drive Manuscript. I read ch9 to Josh by voice.
+- Decisions: Josh (Nov 3, voice) said the historical gathering is solid. His framing for ancient accounts: people recorded real events with the words they had (a disc on water described as "a pot"). Use this as a question-framing device, not a claim.
+- Open: ch1 (Rock Art) has no register claims; Historian, please source rock-art sites and the first post-1947 "spacemen" readings. Drake's book contents and the Ravenscroft quote are still unconfirmed. Josh hasn't decided whether the repo should go private. The env GITHUB_TOKEN on the box is invalid, so push with `env -u GITHUB_TOKEN`.
+- Next free IDs: T-077, MC-030, A-014, AO-026, MX-023, S-0357.
