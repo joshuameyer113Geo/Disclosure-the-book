@@ -111,7 +111,7 @@ S-0109,HHRG-118-GO06-Transcript-20241113.pdf,docs.house.gov,government document,
 S-0110,restoring-public-trust-through-uap-transparency-and-whistleblower-protection,oversight.house.gov,government document,https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/,,2026-10-28,cited; live-check pending (see URL-check notes),T-032
 S-0111,UAP-Request-Letter-FINAL.pdf,oversight.house.gov,government document,https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf,,2026-10-28,cited; live-check pending (see URL-check notes),T-033
 S-0112,luna-continues-transparency-investigation-into-uaps,oversight.house.gov,government document,https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/,,2026-10-28,cited; live-check pending (see URL-check notes),T-033
-S-0113,ufo,war.gov,government document,https://www.war.gov/ufo/,,2026-10-28,cited; live-check pending (see URL-check notes),T-034
+S-0113,ufo,war.gov,government document,https://www.war.gov/ufo/,,2026-10-28,live-checked 2026-11-03 via WebFetch (curl 403/bot block),T-034;MC-030
 S-0114,trump-releases-previously-classified-ufo-files-2026-05-08,reuters.com,press,https://www.reuters.com/world/trump-releases-previously-classified-ufo-files-2026-05-08/,,2026-10-28,cited; live-check pending (see URL-check notes),T-034
 S-0115,trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a,apnews.com,press,https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a,,2026-10-28,cited; live-check pending (see URL-check notes),T-034
 S-0116,Atrahasis.pdf,geha.paginas.ufsc.br,web,https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf,,2026-10-28,cited; live-check pending (see URL-check notes),T-036;A-001
@@ -159,9 +159,9 @@ S-0157,implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the
 S-0158,text,congress.gov,government document,https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text,,2026-10-28,cited; live-check pending (see URL-check notes),T-056
 S-0159,IN12653.html,everycrsreport.com,web,https://www.everycrsreport.com/reports/IN12653.html,,2026-10-28,cited; live-check pending (see URL-check notes),T-056
 S-0160,PLAW-119publ60,govinfo.gov,government document,https://www.govinfo.gov/app/details/PLAW-119publ60,,2026-10-28,cited; live-check pending (see URL-check notes),T-056
-S-0161,legislation-tracker,disclosurediaries.com,web,https://www.disclosurediaries.com/legislation-tracker/,,2026-10-28,cited; live-check pending (see URL-check notes),T-056;T-057
-S-0162,2026278,clerk.house.gov,government document,https://clerk.house.gov/Votes/2026278,,2026-10-28,cited; live-check pending (see URL-check notes),T-057
-S-0163,all-actions,congress.gov,government document,https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions,,2026-10-28,cited; live-check pending (see URL-check notes),T-057
+S-0161,legislation-tracker,disclosurediaries.com,web,https://www.disclosurediaries.com/legislation-tracker/,,2026-10-28,live-checked 2026-11-03 (200),T-056;T-057;MC-034
+S-0162,2026278,clerk.house.gov,government document,https://clerk.house.gov/Votes/2026278,,2026-10-28,live-checked 2026-11-03 (200),T-057;MC-034
+S-0163,all-actions,congress.gov,government document,https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions,,2026-10-28,live-checked 2026-11-03 via WebFetch (curl 403/bot block),T-057;MC-034
 S-0164,CREC-2026-07-22-pt1-PgD759.htm,govinfo.gov,government document,https://www.govinfo.gov/content/pkg/CREC-2026-07-22/html/CREC-2026-07-22-pt1-PgD759.htm,,2026-10-28,cited; live-check pending (see URL-check notes),T-057
 S-0165,public-announcement,galileo.hsites.harvard.edu,archive,https://galileo.hsites.harvard.edu/public-announcement,,2026-10-28,cited; live-check pending (see URL-check notes),T-058
 S-0166,richard-king-mellon-foundation-awards-575000-galileo-project,galileo.hsites.harvard.edu,archive,https://galileo.hsites.harvard.edu/news/richard-king-mellon-foundation-awards-575000-galileo-project,,2026-10-28,cited; live-check pending (see URL-check notes),T-058
@@ -368,20 +368,16 @@ S-0366,ch10s05.html,press-files.anu.edu.au,web,https://press-files.anu.edu.au/do
 S-0367,ch10s09.html,press-files.anu.edu.au,web,https://press-files.anu.edu.au/downloads/press/p14881/mobile/ch10s09.html,,2026-11-03,live-checked 2026-11-03 (200),T-079
 S-0368,8049978,abc.net.au,web,https://www.abc.net.au/news/2016-12-05/aboriginal-people-move-to-reclaim-sacred-wandjina-drawings/8049978,,2026-11-03,live-checked 2026-11-03 (200),T-079
 S-0369,culture,mowanjumarts.com,web,https://mowanjumarts.com/about/culture,,2026-11-03,live-checked 2026-11-03 (200),T-079
-S-0370,"2306248
--",abc.net.au,web,"https://www.abc.net.au/news/2010-10-21/council-orders-removal-of-fake-aboriginal-art/2306248
--",,2026-11-03,live-checked 2026-11-03 (200),T-079
+S-0370,2306248,abc.net.au,web,https://www.abc.net.au/news/2010-10-21/council-orders-removal-of-fake-aboriginal-art/2306248,,2026-11-03,live-checked 2026-11-03 (200),T-079
 S-0371,pnas.1405402111,pnas.org,web,https://www.pnas.org/doi/10.1073/pnas.1405402111,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),T-080
 S-0372,usu-scientists-shed-new-light-on-age-of-barrier-canyon-style-rock-art,usu.edu,web,https://www.usu.edu/today/story/usu-scientists-shed-new-light-on-age-of-barrier-canyon-style-rock-art,,2026-11-03,live-checked 2026-11-03 (200),T-080
 S-0373,bold-figures-blurred-history-great-gallery-horseshoe-canyon,nhmu.utah.edu,web,https://nhmu.utah.edu/articles/bold-figures-blurred-history-great-gallery-horseshoe-canyon,,2026-11-03,live-checked 2026-11-03 (200),T-080
 S-0374,thousands-years-ago-artists-painted-other-worldly-beings-canyon-rock-walls,neh.gov,web,https://www.neh.gov/humanities/2018/summer/statement/thousands-years-ago-artists-painted-other-worldly-beings-canyon-rock-walls,,2026-11-03,live-checked 2026-11-03 (200),T-080
 S-0375,941,ijih.org,web,https://ijih.org/volumes/article/941,,2026-11-03,live-checked 2026-11-03 (200),T-080
-S-0376,"horseshoecanyon.htm
--",nps.gov,web,"https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm
--",,2026-11-03,live-checked 2026-11-03 (200),T-080
+S-0376,horseshoecanyon.htm,nps.gov,web,https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm,,2026-11-03,live-checked 2026-11-03 (200),T-080
 S-0377,department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena,war.gov,web,https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),MC-030
 S-0378,new-ufo-documents-flying-triangle,axios.com,web,https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),MC-030
-S-0379,ufo,war.gov,web,https://www.war.gov/ufo/,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),MC-030
+S-0379,RETIRED duplicate of S-0113,,,,,2026-11-03,RETIRED duplicate of S-0113; do not cite,
 S-0380,congress-eyes-a-new-uap-hearing,sentinel-news.org,web,https://www.sentinel-news.org/p/congress-eyes-a-new-uap-hearing,,2026-11-03,live-checked 2026-11-03 (200),MC-031;MC-032
 S-0381,news-oversight-chair-planning-uap-hearing-after-election,askapoluaps.com,web,https://www.askapoluaps.com/p/news-oversight-chair-planning-uap-hearing-after-election,,2026-11-03,live-checked 2026-11-03 (200),MC-031
 S-0382,us-intel-community-witnesses-to-2025-ufo-orb-incident-could-testify-before-congr,nypost.com,web,https://nypost.com/2026/10/10/us-news/us-intel-community-witnesses-to-2025-ufo-orb-incident-could-testify-before-congress/,,2026-11-03,live-checked 2026-11-03 (200),MC-032
@@ -389,9 +385,9 @@ S-0383,burlison-considers-testimony-orange-uap-orbs-1824884,ibtimes.co.uk,web,ht
 S-0384,6169367-democrats-majority-congress-ufo-sightings-transparency,thehill.com,web,https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),MC-033
 S-0385,democrats-plot-taking-ufo-disclosure-issue-from-gop-after-midterms,nypost.com,web,https://nypost.com/2026/10/31/us-news/democrats-plot-taking-ufo-disclosure-issue-from-gop-after-midterms/,,2026-11-03,live-checked 2026-11-03 (200),MC-033
 S-0386,democrats-republicans-uap-midterm-elections,cybernews.com,web,https://cybernews.com/news/democrats-republicans-uap-midterm-elections/,,2026-11-03,live-checked 2026-11-03 (200),MC-033
-S-0387,2026278,clerk.house.gov,web,https://clerk.house.gov/Votes/2026278,,2026-11-03,live-checked 2026-11-03 (200),MC-034
-S-0388,legislation-tracker,disclosurediaries.com,web,https://www.disclosurediaries.com/legislation-tracker/,,2026-11-03,live-checked 2026-11-03 (200),MC-034
-S-0389,all-actions,congress.gov,web,https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions,,2026-11-03,live-checked 2026-11-03 via WebFetch (curl 403/bot block),MC-034
+S-0387,RETIRED duplicate of S-0162,,,,,2026-11-03,RETIRED duplicate of S-0162; do not cite,
+S-0388,RETIRED duplicate of S-0161,,,,,2026-11-03,RETIRED duplicate of S-0161; do not cite,
+S-0389,RETIRED duplicate of S-0163,,,,,2026-11-03,RETIRED duplicate of S-0163; do not cite,
 S-0390,the-us-government-has-a-preparedness,jennicevilhauer.substack.com,web,https://jennicevilhauer.substack.com/p/the-us-government-has-a-preparedness,,2026-11-03,live-checked 2026-11-03 (200),MC-035
 S-0391,?date=2026-10-10 (supporting),ufowatch.com,web,https://www.ufowatch.com/news/?date=2026-10-10,,2026-11-03,live-checked 2026-11-03 (200),MC-035
 S-0392,israeli-military-continues-the-search-for-an-unidentified-aerial-object-detected,thedebrief.org,web,https://thedebrief.org/israeli-military-continues-the-search-for-an-unidentified-aerial-object-detected-near-lebanese-border/,,2026-11-03,live-checked 2026-11-03 (200),MC-036

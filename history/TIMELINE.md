@@ -488,7 +488,7 @@ Researched 2026-10-28 using live web search only. This is a fresh build from pub
 - **Details:** The House passed H.R. 8800 by 216–212 on Jul 22, 2026, including Rep. Burlison's UAP Disclosure Act amendment. The Senate amendment S.Amdt. 6344 (Schumer and Rounds, Jun 24, 2026) is pending after cloture on the Senate NDAA failed on Jul 14, 2026 (per the tracker). As of Oct 28, 2026 it is not law and depends on conference.
 - **Sources:** https://clerk.house.gov/Votes/2026278 ; https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions ; https://www.govinfo.gov/content/pkg/CREC-2026-07-22/html/CREC-2026-07-22-pt1-PgD759.htm ; https://www.disclosurediaries.com/legislation-tracker/ (supporting)
 - **Motive/credibility note (Writer's territory, analysis not fact):** Election-year positioning versus transparency goals.
-- **Update (2026-11-03):** For status as of Nov 3, 2026 (House passage 216–212 confirmed by the Clerk, Roll Call 278; the Senate bill has no UAP text; the outcome depends on conference), see [MC-034].
+- **Update (2026-11-03):** For status as of Nov 3, 2026 (House passage 216–212 confirmed by the Clerk, Roll Call 278; the Senate bill has no UAP text; the outcome depends on conference), see [MC-034]. The voice-vote versus en bloc detail remains **DISPUTED**.
 - **Imagery:** `T-057_eric-burlison.jpg` (Drive: Disclosure/Imagery). License: Public domain. Credit: U.S. House of Representatives. Source: https://commons.wikimedia.org/wiki/File:Rep._Eric_Burlison_-_118th_Congress.jpg. Note: Portrait of Rep. Burlison (House sponsor).
 
 ### 58. [T-058] Ch44. Galileo Project launched at Harvard: Jul 26, 2021 (led by Avi Loeb)

@@ -179,8 +179,8 @@
 - **Motive/credibility note (Writer's territory, analysis not fact):** Election-eve positioning. The demand for Vol. 2 is checkable, since AARO has published only Vol. 1.
 
 ## 34. [MC-034] UAP Disclosure Act status as of Nov 3, 2026: passed the House inside the FY2027 NDAA (H.R. 8800) on Jul 22, 2026, 216–212; not law
-- **Tag:** Reported fact.
-- **Details:** The Clerk's Roll Call 278 records passage of the FY2027 NDAA, 216–212. The Act rode in by voice vote as Title XVII, Subtitle D (Secs. 1761–1772). The Senate NDAA (S. 4784) has no UAP text; Senate amendment S.Amdt. 6344 is pending. The outcome depends on the post-election conference. Updates T-057.
+- **Tag:** Reported fact (the House passage) / In between (the mechanics). **DISPUTED** detail: one source says the amendment was adopted by voice vote, another says en bloc.
+- **Details:** The Clerk's Roll Call 278 records passage of the FY2027 NDAA, 216–212. It is recorded as Title XVII, Subtitle D (Secs. 1761–1772). **DISPUTED:** one source says the amendment was adopted by voice vote, another says en bloc (see T-057). The Senate NDAA (S. 4784) has no UAP text; Senate amendment S.Amdt. 6344 is pending. The outcome depends on the post-election conference. Updates T-057.
 - **Sources:** https://clerk.house.gov/Votes/2026278 ; https://www.disclosurediaries.com/legislation-tracker/ ; https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions
 - **Reception:** Advocates call it the first time the full Act has passed a chamber.
 - **Motive/credibility note (Writer's territory, analysis not fact):** Conference committees have stripped UAP disclosure text before (FY2024).

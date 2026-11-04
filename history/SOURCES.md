@@ -33,12 +33,12 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - **S-0110** https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ — supports T-032
 - **S-0111** https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf — supports T-033
 - **S-0112** https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/ — supports T-033
-- **S-0113** https://www.war.gov/ufo/ — supports T-034
+- **S-0113** https://www.war.gov/ufo/ — supports T-034, MC-030
 - **S-0154** https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text — supports T-054
 - **S-0158** https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text — supports T-056
 - **S-0160** https://www.govinfo.gov/app/details/PLAW-119publ60 — supports T-056
-- **S-0162** https://clerk.house.gov/Votes/2026278 — supports T-057
-- **S-0163** https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions — supports T-057
+- **S-0162** https://clerk.house.gov/Votes/2026278 — supports T-057, MC-034
+- **S-0163** https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions — supports T-057, MC-034
 - **S-0164** https://www.govinfo.gov/content/pkg/CREC-2026-07-22/html/CREC-2026-07-22-pt1-PgD759.htm — supports T-057
 - **S-0186** https://pubs.giss.nasa.gov/docs/2007/2007_Stothers_st02710y.pdf — supports T-065, T-066
 - **S-0192** https://www.war.gov/medialink/ufo/release_05/Aug_07/documents/DOW-UAP-D099_Intelligence-Review-of-Ghost-Rocket-Incidents_1947.pdf — supports T-069
@@ -254,7 +254,7 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - **S-0155** https://www.paradigmresearchgroup.org/FY2024_NDAA_UAP_Signed.pdf — supports T-054, T-055
 - **S-0157** https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/ — supports T-055
 - **S-0159** https://www.everycrsreport.com/reports/IN12653.html — supports T-056
-- **S-0161** https://www.disclosurediaries.com/legislation-tracker/ — supports T-056, T-057
+- **S-0161** https://www.disclosurediaries.com/legislation-tracker/ — supports T-056, T-057, MC-034
 - **S-0169** https://www.worldscientific.com/doi/10.1142/S2251171723400032 — supports T-059
 - **S-0189** https://www.jasoncolavito.com/blog/the-byland-abbey-ufo-sighting-anatomy-of-a-hoax — supports T-067, T-068
 - **S-0190** https://rr0.org/science/crypto/ufo/enquete/dossier/Byland/index.html — supports T-068
@@ -580,18 +580,16 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - **S-0367** https://press-files.anu.edu.au/downloads/press/p14881/mobile/ch10s09.html — supports T-079
 - **S-0368** https://www.abc.net.au/news/2016-12-05/aboriginal-people-move-to-reclaim-sacred-wandjina-drawings/8049978 — supports T-079
 - **S-0369** https://mowanjumarts.com/about/culture — supports T-079
-- **S-0370** https://www.abc.net.au/news/2010-10-21/council-orders-removal-of-fake-aboriginal-art/2306248
-- — supports T-079
+- **S-0370** https://www.abc.net.au/news/2010-10-21/council-orders-removal-of-fake-aboriginal-art/2306248 — supports T-079
 - **S-0371** https://www.pnas.org/doi/10.1073/pnas.1405402111 — supports T-080
 - **S-0372** https://www.usu.edu/today/story/usu-scientists-shed-new-light-on-age-of-barrier-canyon-style-rock-art — supports T-080
 - **S-0373** https://nhmu.utah.edu/articles/bold-figures-blurred-history-great-gallery-horseshoe-canyon — supports T-080
 - **S-0374** https://www.neh.gov/humanities/2018/summer/statement/thousands-years-ago-artists-painted-other-worldly-beings-canyon-rock-walls — supports T-080
 - **S-0375** https://ijih.org/volumes/article/941 — supports T-080
-- **S-0376** https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm
-- — supports T-080
+- **S-0376** https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm — supports T-080
 - **S-0377** https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/ — supports MC-030
 - **S-0378** https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle — supports MC-030
-- **S-0379** https://www.war.gov/ufo/ — supports MC-030
+- **S-0379** RETIRED duplicate of S-0113; do not cite
 - **S-0380** https://www.sentinel-news.org/p/congress-eyes-a-new-uap-hearing — supports MC-031, MC-032
 - **S-0381** https://www.askapoluaps.com/p/news-oversight-chair-planning-uap-hearing-after-election — supports MC-031
 - **S-0382** https://nypost.com/2026/10/10/us-news/us-intel-community-witnesses-to-2025-ufo-orb-incident-could-testify-before-congress/ — supports MC-032
@@ -599,9 +597,9 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 - **S-0384** https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/ — supports MC-033
 - **S-0385** https://nypost.com/2026/10/31/us-news/democrats-plot-taking-ufo-disclosure-issue-from-gop-after-midterms/ — supports MC-033
 - **S-0386** https://cybernews.com/news/democrats-republicans-uap-midterm-elections/ — supports MC-033
-- **S-0387** https://clerk.house.gov/Votes/2026278 — supports MC-034
-- **S-0388** https://www.disclosurediaries.com/legislation-tracker/ — supports MC-034
-- **S-0389** https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions — supports MC-034
+- **S-0387** RETIRED duplicate of S-0162; do not cite
+- **S-0388** RETIRED duplicate of S-0161; do not cite
+- **S-0389** RETIRED duplicate of S-0163; do not cite
 - **S-0390** https://jennicevilhauer.substack.com/p/the-us-government-has-a-preparedness — supports MC-035
 - **S-0391** https://www.ufowatch.com/news/?date=2026-10-10 — supports MC-035 (supporting)
 - **S-0392** https://thedebrief.org/israeli-military-continues-the-search-for-an-unidentified-aerial-object-detected-near-lebanese-border/ — supports MC-036
