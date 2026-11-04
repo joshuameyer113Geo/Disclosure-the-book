@@ -14,6 +14,14 @@ Opening narrative entry: Adam and Eve (T-038), placed first by design as the boo
   _Reported fact (the publication) / In between (speculative bi_ · Photo: ☑ `T-061_dinosauroid.jpg` (CC BY 2.0) · Notes: ____
 - **[T-062]** OPEN QUESTION: where the "reptilian" comes from. An Earth-evolved survivor of the impact, or an off-world origin?  
   _In between (an open question; DECIDE NEITHER)._ · Photo: ☑ `T-062_reptilian-origin_artists-rendering.png` (ARTIST'S RENDERING) · Notes: ____
+- **[T-077]** Val Camonica "astronauts": Iron Age engravings read as spacemen  
+  _Reported fact / Lore._ · Photo: ☐ (to source) · Notes: ____
+- **[T-078]** Tassili n'Ajjer Round Heads and Lhote's "Martians" at Jabbaren (1958/1959)  
+  _Reported fact / Lore._ · Photo: ☐ (to source) · Notes: ____
+- **[T-079]** Wandjina; von Däniken's spaceman reading (1968); custodians object  
+  _Reported fact / Lore._ · Photo: ☐ (to source) · Notes: ____
+- **[T-080]** Barrier Canyon Style Great Gallery dated AD ~1–1100 (2014)  
+  _Reported fact / Lore._ · Photo: ☐ (to source) · Notes: ____
 
 ## II. Ancient texts (to 500 CE)
 - **[T-047]** Egyptian serpents Apophis, Wadjet, and Mehen (cross-reference A-010)  
@@ -154,6 +162,24 @@ Opening narrative entry: Adam and Eve (T-038), placed first by design as the boo
   _Reported fact. *Reason: an official report. Its conclusions _ · Photo: ☑ `T-030_aaro-hrr-vol1.jpg` (Public domain) · Notes: ____
 - **[T-076]** Japan: cross-party Diet league on UAP formed June 2024 (chair Yasukazu Hamada); asks the Defense Minister for a UAP unit, May 2025  
   _Reported fact._ · Photo: ☑ `T-076_yasukazu-hamada.jpg` (CC BY 4.0) · Notes: ____
+- **[MC-030]** PURSUE Release 07 (Oct 23, 2026): black triangle seen by three federal agents  
+  _Reported fact / In between._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-031]** Comer seeks a lame-duck UAP hearing (Sept 16, 2026 interview)  
+  _Reported fact / In between._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-032]** Burlison explores testimony from orange-orb helicopter witnesses (NY Post Oct 10, 2026)  
+  _Reported fact / In between._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-033]** Carson: disclosure "slow walked"; HRR Vol. 2; Democratic select-committee plan  
+  _Reported fact / In between._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-034]** UAP Disclosure Act passed the House in the FY2027 NDAA 216–212 (Jul 22, 2026); not law  
+  _Reported fact._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-035]** Vilhauer claims a US NHI preparedness plan (claim)  
+  _Claim (Lore)._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-036]** IDF unidentified object at Arab el-Aramsha (Oct 10, 2026), likely a balloon  
+  _Reported fact / In between._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-037]** Japan treats UAP as a security matter (Kihara May 2026; about 80 lawmakers)  
+  _Reported fact._ · Photo: ☐ (to source) · Notes: ____
+- **[MC-038]** WikiLeaks note: DeLonge–Podesta (2016), Grenada cables (1978); McCasland missing since Feb 27, 2026  
+  _Reported fact._ · Photo: ☐ (to source) · Notes: ____
 - **[T-031]** "UAP: Exposing the Truth" hearing: Nov 13, 2024  
   _Reported fact. *Reason: the hearing record is fact. The "Imm_ · Photo: ☑ `T-031_tim-burchett.jpg` (Public domain) · Notes: ____
 - **[T-056]** Ch42. UAP Disclosure Act of 2025, S.Amdt. 3111 (submitted Jul 29, 2025), left out of the FY2026 NDAA (P.L. 119-60, signed Dec 18, 2025)  

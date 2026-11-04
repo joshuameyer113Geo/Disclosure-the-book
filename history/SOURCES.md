@@ -564,3 +564,55 @@ Generated 2026-10-28 from TIMELINE.md, MODERN_CASES_FACTS.md, ANCIENT_LORE.md. S
 
 - MX-022: S-0316, S-0352, S-0353, S-0354, S-0355, S-0315
 - **S-0356** https://www.openminds.tv/pdf/apro/apro_nov_1967.pdf — supports MX-019 (APRO Bulletin Nov–Dec 1967)
+
+
+## Added 2026-11-03 (rock art ch1 and Oct–Nov 2026 modern cases)
+- **S-0357** https://whc.unesco.org/en/list/94/ — supports T-077
+- **S-0358** https://www.queryonline.it/2022/10/17/astronauti-camuni-la-leggenda-degli-antichi-astronauti-della-valcamonica/ — supports T-077
+- **S-0359** https://ancientworldatlas.com/sites/val-camonica — supports T-077
+- **S-0360** https://en.wikipedia.org/wiki/Rock_Drawings_in_Valcamonica — supports T-077 (supporting)
+- **S-0361** https://whc.unesco.org/en/list/179/ — supports T-078
+- **S-0362** https://africanrockart.britishmuseum.org/introduction/chronologies/ — supports T-078
+- **S-0363** https://archive.org/stream/HenriLhoteTheSearchForTheTassiliFrescoesTheStoryOfThePrehistoricRockPaintingOfTheSahara1959/Henri-Lhote-The-search-for-the-Tassili-frescoes-the-story-of-the-prehistoric-rock-painting-of-the-sahara-1959_djvu.txt — supports T-078
+- **S-0364** https://wunderkammer.inselmann.net/121/felsbilder-von-tassili/ — supports T-078
+- **S-0365** https://en.wikipedia.org/wiki/Henri_Lhote — supports T-078 (supporting)
+- **S-0366** https://press-files.anu.edu.au/downloads/press/p14881/html/ch10s05.html — supports T-079
+- **S-0367** https://press-files.anu.edu.au/downloads/press/p14881/mobile/ch10s09.html — supports T-079
+- **S-0368** https://www.abc.net.au/news/2016-12-05/aboriginal-people-move-to-reclaim-sacred-wandjina-drawings/8049978 — supports T-079
+- **S-0369** https://mowanjumarts.com/about/culture — supports T-079
+- **S-0370** https://www.abc.net.au/news/2010-10-21/council-orders-removal-of-fake-aboriginal-art/2306248
+- — supports T-079
+- **S-0371** https://www.pnas.org/doi/10.1073/pnas.1405402111 — supports T-080
+- **S-0372** https://www.usu.edu/today/story/usu-scientists-shed-new-light-on-age-of-barrier-canyon-style-rock-art — supports T-080
+- **S-0373** https://nhmu.utah.edu/articles/bold-figures-blurred-history-great-gallery-horseshoe-canyon — supports T-080
+- **S-0374** https://www.neh.gov/humanities/2018/summer/statement/thousands-years-ago-artists-painted-other-worldly-beings-canyon-rock-walls — supports T-080
+- **S-0375** https://ijih.org/volumes/article/941 — supports T-080
+- **S-0376** https://www.nps.gov/cany/planyourvisit/horseshoecanyon.htm
+- — supports T-080
+- **S-0377** https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/ — supports MC-030
+- **S-0378** https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle — supports MC-030
+- **S-0379** https://www.war.gov/ufo/ — supports MC-030
+- **S-0380** https://www.sentinel-news.org/p/congress-eyes-a-new-uap-hearing — supports MC-031, MC-032
+- **S-0381** https://www.askapoluaps.com/p/news-oversight-chair-planning-uap-hearing-after-election — supports MC-031
+- **S-0382** https://nypost.com/2026/10/10/us-news/us-intel-community-witnesses-to-2025-ufo-orb-incident-could-testify-before-congress/ — supports MC-032
+- **S-0383** https://www.ibtimes.co.uk/burlison-considers-testimony-orange-uap-orbs-1824884 — supports MC-032
+- **S-0384** https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/ — supports MC-033
+- **S-0385** https://nypost.com/2026/10/31/us-news/democrats-plot-taking-ufo-disclosure-issue-from-gop-after-midterms/ — supports MC-033
+- **S-0386** https://cybernews.com/news/democrats-republicans-uap-midterm-elections/ — supports MC-033
+- **S-0387** https://clerk.house.gov/Votes/2026278 — supports MC-034
+- **S-0388** https://www.disclosurediaries.com/legislation-tracker/ — supports MC-034
+- **S-0389** https://www.congress.gov/bill/119th-congress/house-bill/8800/all-actions — supports MC-034
+- **S-0390** https://jennicevilhauer.substack.com/p/the-us-government-has-a-preparedness — supports MC-035
+- **S-0391** https://www.ufowatch.com/news/?date=2026-10-10 — supports MC-035 (supporting)
+- **S-0392** https://thedebrief.org/israeli-military-continues-the-search-for-an-unidentified-aerial-object-detected-near-lebanese-border/ — supports MC-036
+- **S-0393** https://www.timesofisrael.com/idf-unidentified-object-that-triggered-sirens-in-north-was-likely-a-balloon/ — supports MC-036
+- **S-0394** https://www.jpost.com/israel-news/defense-news/article-911513 — supports MC-036
+- **S-0395** https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/ — supports MC-037
+- **S-0396** https://starlust.org/gallery/japan-once-dismissed-ufos-now-the-government-is-investigating-unexplained-sightings-seriously-muvnje00/ — supports MC-037 (supporting)
+- **S-0397** https://www.tokyo-np.co.jp/article/491244 — supports MC-037
+- **S-0398** https://www.wikileaks.org/podesta-emails/emailid/3099 — supports MC-038
+- **S-0399** https://www.rollingstone.com/music/music-news/read-tom-delonges-leaked-email-to-hillary-clinton-campaign-about-ufos-103832/ — supports MC-038
+- **S-0400** https://wikileaks.org/plusd/cables/1978USUNN05603_d.html — supports MC-038
+- **S-0401** https://news.un.org/en/story/2024/04/1148436 — supports MC-038
+- **S-0402** https://www.newsweek.com/update-on-missing-ufo-expert-police-call-for-home-security-footage-11657061 — supports MC-038
+- **S-0403** https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036 — supports MC-038

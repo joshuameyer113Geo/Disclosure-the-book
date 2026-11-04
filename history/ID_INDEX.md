@@ -99,8 +99,12 @@
 - T-074: Australia: pilot Frederick Valentich vanishes over Bass Strait after reporting a strange craft, Oct 21, 1978
 - T-075: UK: the MoD's UFO files are released in tranches, 2008–2013; the UFO desk closes in late 2009
 - T-076: Japan: cross-party Diet league on UAP formed June 2024 (chair Yasukazu Hamada); asks the Defense Minister for 
+- T-077: Val Camonica "astronauts": Iron Age engravings read as spacemen
+- T-078: Tassili n'Ajjer Round Heads and Lhote's "Martians" at Jabbaren (1958/1959)
+- T-079: Wandjina; von Däniken's spaceman reading (1968); custodians object
+- T-080: Barrier Canyon Style Great Gallery dated AD ~1–1100 (2014)
 
-*Next free: T-077*
+*Next free: T-081*
 
 ## MC: MODERN_CASES_FACTS.md
 - MC-001: Kenneth Arnold: June 24, 1947, near Mount Rainier, Washington
@@ -132,8 +136,17 @@
 - MC-027: **Earliest descriptions (1961):** Betty's report to Pease AFB describes the craft (fin-like structures, red li
 - MC-028: **Hypnosis transcripts:** Dr. Benjamin Simon's sessions (1964) were taped verbatim. Fuller's book is "based la
 - MC-029: **When the "gray" image arrived (DISPUTED):** The 1961 accounts describe uniformed, broadly human figures. The
+- MC-030: PURSUE Release 07 (Oct 23, 2026): black triangle seen by three federal agents
+- MC-031: Comer seeks a lame-duck UAP hearing (Sept 16, 2026 interview)
+- MC-032: Burlison explores testimony from orange-orb helicopter witnesses (NY Post Oct 10, 2026)
+- MC-033: Carson: disclosure "slow walked"; HRR Vol. 2; Democratic select-committee plan
+- MC-034: UAP Disclosure Act passed the House in the FY2027 NDAA 216–212 (Jul 22, 2026); not law
+- MC-035: Vilhauer claims a US NHI preparedness plan (claim)
+- MC-036: IDF unidentified object at Arab el-Aramsha (Oct 10, 2026), likely a balloon
+- MC-037: Japan treats UAP as a security matter (Kihara May 2026; about 80 lawmakers)
+- MC-038: WikiLeaks note: DeLonge–Podesta (2016), Grenada cables (1978); McCasland missing since Feb 27, 2026
 
-*Next free: MC-030*
+*Next free: MC-039*
 
 ## A: ANCIENT_LORE.md
 - A-001: Atrahasis: humans made from clay and a slain god

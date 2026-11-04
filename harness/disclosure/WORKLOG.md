@@ -27,3 +27,8 @@ Entry format:
 - Decisions: Josh (Nov 3, voice) said the historical gathering is solid. His framing for ancient accounts: people recorded real events with the words they had (a disc on water described as "a pot"). Use this as a question-framing device, not a claim.
 - Open: ch1 (Rock Art) has no register claims; Historian, please source rock-art sites and the first post-1947 "spacemen" readings. Drake's book contents and the Ravenscroft quote are still unconfirmed. Josh hasn't decided whether the repo should go private. The env GITHUB_TOKEN on the box is invalid, so push with `env -u GITHUB_TOKEN`.
 - Next free IDs: T-077, MC-030, A-014, AO-026, MX-023, S-0357.
+
+## 2026-11-04 23:54 PT, Eden Historian
+- Done: ch1 rock art, T-077 to T-080 (Val Camonica, Tassili/Lhote, Wandjina, Barrier Canyon Great Gallery). Last-30-days modern cases MC-030 to MC-038 (PURSUE 07 triangle; Comer lame-duck hearing; Burlison orange orbs; Carson and HRR Vol. 2; Disclosure Act status, with a T-057 pointer to MC-034; Vilhauer preparedness claim; IDF Arab el-Aramsha balloon; Japan Kihara and 80 lawmakers; WikiLeaks/DeLonge/Grenada/McCasland note). Sources S-0357 to S-0403; CLAIMS_REGISTER, VISUAL_TIMELINE and ID_INDEX updated by hand (build_registers.py not run); check_ids.py OK.
+- Open: OPEN_QUESTIONS 30–33, covering the Val Camonica and Barrier Canyon first printings (UNCONFIRMED), the exact wording of the Lhote "great Martian god" phrase, and any tribal objection at Barrier Canyon. Carson date (Oct 23 vs Nov 2) and Vilhauer date (Sept 3 post vs Oct 9 report) noted in the entries.
+- Next free IDs: T-081, MC-039, A-014, AO-026, MX-023, S-0404.
