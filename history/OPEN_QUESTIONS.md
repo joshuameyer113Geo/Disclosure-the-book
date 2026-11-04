@@ -47,3 +47,9 @@ About 15 links were found in earlier live searches but returned 403 or 500 to au
 27. **More 19th-century reports** beyond T-004 and T-005 (e.g., 1880s press "meteors"). Not yet researched.
 28. **Valentich (T-074):** the NAA RecordSearch item link (only a scan host was reached).
 29. **The MC-019 gap** in the checker is a formatting artifact (MC-019 sits inline). Verify it.
+
+## E. Added 2026-11-03 (rock art, ch1)
+30. **Val Camonica (T-077):** who first printed the "astronaut" reading of the Zurla/Foppe di Nadro figures, and in what work and year? UNCONFIRMED (Kolosimo? 1960s).
+31. **Barrier Canyon / Great Gallery (T-080):** the first printed ancient-astronaut or "spacemen" reading. UNCONFIRMED. Also any published tribal objection to alien readings.
+32. **Tassili (T-078):** any Tuareg or Algerian custodian statement on the "Martian" reading; locate the "great Martian god" caption in the 1958 French edition.
+33. **Wandjina (T-079):** check whether anyone printed a spaceman reading before von Däniken (1968).
