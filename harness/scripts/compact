@@ -249,13 +249,60 @@ def split_sections(lines):
     return sections
 
 
+def _is_item_line(line):
+    """True for a wrapped line of the current item, not a new block."""
+    stripped = line.strip()
+    if not stripped:
+        return False
+    if line.lstrip().startswith(("- ", "* ")):
+        return False
+    if stripped.startswith("#"):
+        return False
+    if re.match(r"^(?:\*{3,}|-{3,}|_{3,})$", stripped):
+        return False
+    return True
+
+
+def _item_end(lines, marker, limit):
+    """Index of the last line of the list item that starts at marker.
+
+    A wrapped item keeps going onto indented lines, and onto the next line
+    when that line is still the same paragraph. A blank line ends it unless
+    an indented continuation follows. The index stays inside [0, limit).
+    """
+    last = marker
+    index = marker + 1
+    while index < limit:
+        line = lines[index]
+        if not line.strip():
+            look = index + 1
+            while look < limit and not lines[look].strip():
+                look += 1
+            if look >= limit or not lines[look][:1].isspace() or not _is_item_line(lines[look]):
+                break
+            index = look
+            continue
+        if not _is_item_line(line):
+            break
+        last = index
+        index += 1
+    return last
+
+
 def last_bullet(lines, start, end):
-    """Index of the last markdown list item in [start, end), or None."""
+    """Index of the last line of the last markdown list item in [start, end), or None.
+
+    Includes wrapped continuation lines, so inserting at this index plus one
+    does not split the item.
+    """
+    limit = min(end, len(lines))
     found = None
-    for index in range(start, min(end, len(lines))):
+    for index in range(start, limit):
         if lines[index].lstrip().startswith(("- ", "* ")):
             found = index
-    return found
+    if found is None:
+        return None
+    return _item_end(lines, found, limit)
 
 
 def placement(text, rule_line):
