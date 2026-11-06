@@ -18,14 +18,14 @@
 
 ## Chapter outline (45 chapters)
 
-Source: [outline/OUTLINE.md](outline/OUTLINE.md). Status is taken from each chapter file. Only Chapter 9 has a draft; the others are stubs ("lineout only, not drafted"). Claim IDs are the T-/MC- IDs named in the outline; "#N" entry references are kept as the outline wrote them.
+Source: [outline/OUTLINE.md](outline/OUTLINE.md). Status is taken from each chapter file. Chapters 1 and 9 have drafts (Chapter 1 is linked, not inlined); the others are stubs ("lineout only, not drafted"). Claim IDs are the T-/MC- IDs named in the outline; "#N" entry references are kept as the outline wrote them.
 
 
 ### Part I: Ancient History and Its Modern Readings
 
-1. **Rock Art and the 'Spacemen' Reading** — Status: stub  
+1. **Rock Art and the 'Spacemen' Reading** — Status: **drafted** — [ch01-rock-art-draft.md](manuscript/part-1-ancient-history/ch01-rock-art-draft.md)  
    Show how prehistoric figures were recast as astronauts after 1947, against the custodians' and archaeologists' reading.    
-   Claim IDs: none listed (entry refs only)  
+   Claim IDs: T-077, T-078, T-079, T-080  
    Sources: research/ANCIENT_TIMELINE.md (Prehistoric)
 2. **The Anunnaki in Cuneiform** — Status: stub  
    Set what the tablets say about the Anunnaki beside Sitchin's 1976 Nibiru recasting.    
