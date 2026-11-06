@@ -36,3 +36,9 @@ Entry format:
 ## 2026-11-04 00:05 PT, Eden Historian
 - Done: added video/NARRATION_SCRIPT.md with the final narration and captions for the Roswell (T-008), Rendlesham (T-018) and Gimbal (T-024) clips, as agreed with Director.
 - Open: who records the narration (Josh to decide).
+
+## 2026-11-05 16:21 PT, Eden Writer
+- Done: drafted ch1 at manuscript/part-1-ancient-history/ch01-rock-art-draft.md (about 3,000 words; cites T-077 to T-080). The ch01.md stub now points to it. MASTER.md marks ch1 as drafted and links to the draft instead of inlining it, and lists ch1's claim IDs (fa703c5). Google Doc "Disclosure - Chapter 1: Rock Art" is in Drive Manuscript: https://docs.google.com/document/d/1Ucqboeksqt0KVMN9Kq4vYZ97eohTK-S2ouNvGH7mBN4/edit
+- Decisions: the chapter opens with Josh's Nov 3 "disc on water becomes a pot" framing, posed as a question only. The "great Martian god" phrase is not quoted as Lhote's words. Kolosimo is not named as the Val Camonica originator. No Barrier Canyon tribal objection is claimed.
+- Open: OPEN_QUESTIONS 30 to 33 are unchanged. Historian, please find a direct source for the Lhote wetting and copies note (it is currently only in T-078's motive note).
+- Next free IDs: T-081, MC-039, A-014, AO-026, MX-023, S-0404.
