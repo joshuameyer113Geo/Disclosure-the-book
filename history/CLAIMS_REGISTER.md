@@ -173,11 +173,11 @@ Generated 2026-10-28. Chapter mapping: Eden Writer's mapping plus the Historian'
 | T-078 | Tassili n'Ajjer Round Heads and Lhote's "Martians" at Jabbaren (1958/1959) | S-0361, S-0362, S-0363, S-0364, S-0365 | lore | 1 | TIMELINE.md |
 | T-079 | Wandjina; von Däniken's spaceman reading (1968); custodians object | S-0366, S-0367, S-0368, S-0369, S-0370 | lore | 1 | TIMELINE.md |
 | T-080 | Barrier Canyon Style Great Gallery dated AD ~1–1100 (2014) | S-0371, S-0372, S-0373, S-0374, S-0375, S-0376 | in between | 1 | TIMELINE.md |
-| MC-030 | PURSUE Release 07 (Oct 23, 2026): black triangle seen by three federal agents | S-0377, S-0378, S-0379 | in between | 42 | MODERN_CASES_FACTS.md |
+| MC-030 | PURSUE Release 07 (Oct 23, 2026): black triangle seen by three federal agents | S-0377, S-0378, S-0113 | in between | 42 | MODERN_CASES_FACTS.md |
 | MC-031 | Comer seeks a lame-duck UAP hearing (Sept 16, 2026 interview) | S-0380, S-0381 | in between | 42 | MODERN_CASES_FACTS.md |
 | MC-032 | Burlison explores testimony from orange-orb helicopter witnesses (NY Post Oct 10, 2026) | S-0380, S-0382, S-0383 | in between | 42 | MODERN_CASES_FACTS.md |
 | MC-033 | Carson: disclosure "slow walked"; HRR Vol. 2; Democratic select-committee plan | S-0384, S-0385, S-0386 | in between | 42 | MODERN_CASES_FACTS.md |
-| MC-034 | UAP Disclosure Act passed the House in the FY2027 NDAA 216–212 (Jul 22, 2026); not law | S-0387, S-0388, S-0389 | fact | 42 | MODERN_CASES_FACTS.md |
+| MC-034 | UAP Disclosure Act passed the House in the FY2027 NDAA 216–212 (Jul 22, 2026); not law | S-0162, S-0161, S-0163 | contested | 42 | MODERN_CASES_FACTS.md |
 | MC-035 | Vilhauer claims a US NHI preparedness plan (claim) | S-0390, S-0391 | lore | 42 | MODERN_CASES_FACTS.md |
 | MC-036 | IDF unidentified object at Arab el-Aramsha (Oct 10, 2026), likely a balloon | S-0392, S-0393, S-0394 | in between | 38 | MODERN_CASES_FACTS.md |
 | MC-037 | Japan treats UAP as a security matter (Kihara May 2026; about 80 lawmakers) | S-0395, S-0396, S-0397 | fact | 38 | MODERN_CASES_FACTS.md |
